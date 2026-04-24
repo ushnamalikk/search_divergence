@@ -1,0 +1,11 @@
+label,n_pro_life,n_pro_choice,mean_within,mean_across,pct_diff,ks_stat,p_value,significant,note,platform,field,top_k
+Query vocabulary (NPC),13,96,0.5938,0.6295,-6.0,0.0732,0.0,True,,queries,query_text,
+Google | title | top-10,1,21,,,,,,,insufficient data,google,title,10.0
+Google | title | top-5,1,21,,,,,,,insufficient data,google,title,5.0
+Google | title | top-3,1,21,,,,,,,insufficient data,google,title,3.0
+Google | snippet | top-10,1,21,,,,,,,insufficient data,google,snippet,10.0
+Google | snippet | top-5,1,21,,,,,,,insufficient data,google,snippet,5.0
+Google | snippet | top-3,1,21,,,,,,,insufficient data,google,snippet,3.0
+Google | domain | top-10,1,21,,,,,,,insufficient data,google,domain,10.0
+Google | domain | top-5,1,21,,,,,,,insufficient data,google,domain,5.0
+Google | domain | top-3,1,21,,,,,,,insufficient data,google,domain,3.0

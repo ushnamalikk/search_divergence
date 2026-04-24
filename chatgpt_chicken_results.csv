@@ -1,0 +1,2682 @@
+query_index,col,query,model,temperature,top_p,answer_text_raw,token_count_in,token_count_out,token_count_total,char_count,word_count,n_citations_found,timestamp
+1,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on the weight of the bird. Here's a general guideline:
+
+1. **Preheat your oven** to 350°F (175°C).
+2. **Roast the chicken** for about 20 minutes per pound (450 grams).
+
+For example:
+- A 4-pound (1.8 kg) chicken will take approximately 1 hour and 20 minutes.
+- A 5-pound (2.3 kg) chicken will take approximately 1 hour and 40 minutes.
+
+**Check for doneness**: 
+- Use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) at the thickest part of the meat.
+- Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the time if you're cooking at a different temperature or using a convection oven.",306,175,481,691,118,0,2026-03-05T19:30:28.106391
+2,NPC,s,gpt-4o,0.0,1.0,Could you provide more details or let me know how I can assist you?,302,17,319,67,14,0,2026-03-05T19:30:29.015993
+3,NPC,Roast chicken,gpt-4o,0.0,1.0,"Roast chicken is a classic dish that's flavorful and relatively easy to prepare. Here’s a simple recipe:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds)
+- 2 tablespoons olive oil or melted butter
+- Salt and pepper
+- 1 lemon, halved
+- Fresh herbs (such as rosemary, thyme, or parsley)
+- 4 garlic cloves, crushed
+- 1 onion, quartered (optional)
+- Vegetables like carrots and potatoes (optional)
+
+### Instructions:
+1. **Preheat the Oven:** Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Remove the giblets from the chicken cavity if present.
+   - Pat the chicken dry with paper towels to help it crisp up during roasting.
+
+3. **Season the Chicken:**
+   - Rub the chicken all over with olive oil or melted butter.
+   - Season generously with salt and pepper, inside and out.
+   - Stuff the cavity with lemon halves, fresh herbs, and garlic cloves.
+
+4. **Optional Vegetables:**
+   - If using, arrange the onion, carrots, and potatoes around the chicken in the roasting pan.
+
+5. **Roast the Chicken:**
+   - Place the chicken breast-side up on a roasting rack in the pan.
+   - Roast in the preheated oven for about 1 hour and 15 minutes, or until a meat thermometer inserted into the thickest part of the thigh (avoiding bone) reads 165°F (74°C).
+
+6. **Rest the Chicken:**
+   - Remove the chicken from the oven and let it rest for 10-15 minutes before carving. This helps the juices redistribute.
+
+7. **Serve:**
+   - Carve the chicken and serve with roasted vegetables and pan juices.
+
+Enjoy your delicious homemade roast chicken!",304,375,679,1547,258,0,2026-03-05T19:30:36.133945
+4,NPC,roasted chicken recipe,gpt-4o,0.0,1.0,"Here's a simple roasted chicken recipe you can try:
+
+### Ingredients:
+- 1 whole chicken (about 3-4 pounds)
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 cloves garlic, smashed
+- Fresh herbs (such as rosemary, thyme, or parsley)
+- Salt and pepper to taste
+- Optional: 1 onion, cut into large chunks
+- Optional: Vegetables like carrots or potatoes, chopped
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Remove the giblets from the chicken cavity if present and pat the chicken dry with paper towels.
+
+3. **Season the Chicken:**
+   - Rub the chicken with olive oil or butter and season generously with salt and pepper, including inside the cavity.
+   - Squeeze half of the lemon over the chicken and place the other half inside the cavity along with the garlic cloves and fresh herbs.
+
+4. **Position the Chicken:**
+   - If using, place onion chunks and any vegetables in the roasting pan and rest the chicken on top. This can also double as a rack to lift the chicken off the bottom of the pan.
+
+5. **Roast the Chicken:**
+   - Roast in the preheated oven for about 1 to 1.5 hours, or until the internal temperature reaches 165°F (74°C) when checked with a meat thermometer.
+
+6. **Resting:**
+   - Let the chicken rest for about 10-15 minutes before carving. This helps the juices to redistribute.
+
+7. **Serve:**
+   - Carve the chicken and serve with the roasted vegetables and any additional sides you prefer.
+
+Enjoy your delicious homemade roasted chicken!",305,370,675,1546,263,0,2026-03-05T19:30:44.129075
+5,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"To roast a chicken, you generally want to cook it at 375°F (190°C). Here's a general guideline for timing:
+
+- **Whole Chicken**: Roast for about 20 minutes per pound, plus an additional 15 minutes. For example, a 4-pound chicken would take about 95 minutes (1 hour and 35 minutes). 
+- **Internal Temperature**: Always check that the internal temperature of the thickest part of the chicken (usually the thigh) is at least 165°F (74°C).
+
+Let the chicken rest for about 10-15 minutes before carving to let the juices redistribute.",308,127,435,528,88,0,2026-03-05T19:30:48.163474
+6,NPC,chicken roast time,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and whether it's stuffed. Here's a general guideline:
+
+1. **Unstuffed Chicken**: 
+   - Preheat your oven to 425°F (220°C).
+   - Roast for about 20 minutes per pound (450 grams).
+   - For a standard 4 to 5-pound chicken, this usually takes about 1.5 to 2 hours.
+
+2. **Stuffed Chicken**:
+   - It might need an extra 15 to 30 minutes to ensure the stuffing is fully cooked.
+
+**Tips**:
+- Use a meat thermometer: The internal temperature should reach 165°F (75°C) in the thickest part of the thigh.
+- Rest the chicken for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust oven times accordingly if your specific recipe or oven differs.",305,178,483,714,121,0,2026-03-05T19:30:52.716998
+7,NPC,roasting chicken recipe,gpt-4o,0.0,1.0,"Here's a simple and delicious roasted chicken recipe:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds), giblets removed
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 cloves garlic, crushed
+- Salt and freshly ground black pepper
+- Fresh herbs (such as thyme, rosemary, or parsley)
+- 1 onion, quartered (optional)
+- Vegetables like carrots and potatoes (optional)
+
+### Instructions:
+
+1. **Preheat Oven**: Preheat your oven to 425°F (220°C).
+
+2. **Prepare Chicken**: Pat the chicken dry with paper towels. This helps achieve a crispy skin.
+
+3. **Season Inside**: Rub the inside of the chicken with salt and pepper. Insert the lemon halves, garlic, and herbs into the cavity.
+
+4. **Truss Chicken**: Tie the legs together with kitchen twine and tuck the wing tips under the body of the chicken to ensure even cooking.
+
+5. **Season Outside**: Rub the outside of the chicken with olive oil or melted butter. Season generously with salt and pepper. You can also sprinkle additional herbs on top.
+
+6. **Optional Vegetables**: Place the onion quarters and any vegetables you're using in the bottom of a roasting pan. Drizzle with a little olive oil and season with salt and pepper.
+
+7. **Roast**: Place the chicken breast-side up on a rack in the roasting pan. Roast in the preheated oven for about 1 ½ to 2 hours, or until the juices run clear when you cut between the leg and thigh, and a meat thermometer reads 165°F (74°C).
+
+8. **Rest**: Let the chicken rest for about 10-15 minutes before carving. This helps the juices redistribute throughout the meat.
+
+9. **Serve**: Carve the chicken and serve with the roasted vegetables.
+
+Enjoy your delicious roast chicken!",305,396,701,1676,281,0,2026-03-05T19:31:05.238936
+8,NPC,roasted chicken recipe,gpt-4o,0.0,1.0,"Here's a simple and delicious roasted chicken recipe:
+
+### Ingredients:
+- 1 whole chicken (about 4 pounds)
+- 2 tablespoons olive oil
+- 1 lemon, halved
+- 4 garlic cloves, minced
+- 2 teaspoons salt
+- 1 teaspoon black pepper
+- 1 teaspoon dried thyme
+- 1 teaspoon dried rosemary
+- Fresh herbs (such as rosemary or thyme) for garnish, optional
+
+### Instructions:
+
+1. **Preheat the oven** to 425°F (220°C).
+
+2. **Prepare the Chicken**:
+   - Remove any giblets from the chicken cavity.
+   - Pat the chicken dry with paper towels.
+
+3. **Season the Chicken**:
+   - Rub the olive oil all over the chicken.
+   - Squeeze the lemon halves inside and over the chicken.
+   - Stuff the lemon halves into the cavity.
+   - Mix the garlic, salt, pepper, thyme, and rosemary in a small bowl.
+   - Rub the mixture all over the chicken, including under the skin if possible.
+
+4. **Roast the Chicken**:
+   - Place the chicken on a roasting pan or baking dish, breast side up.
+   - Tie the legs together with kitchen twine if desired.
+   - Roast in the preheated oven for about 1 hour and 15 minutes, or until the internal temperature reaches 165°F (75°C).
+
+5. **Rest and Serve**:
+   - Remove the chicken from the oven and let it rest for about 10 minutes.
+   - Carve and serve, garnished with fresh herbs if you like. Enjoy!
+
+### Tips:
+- Basting the chicken with its juices halfway through cooking can add extra flavor.
+- You can add vegetables like carrots, potatoes, and onions around the chicken for a complete meal. 
+
+Enjoy your delicious roasted chicken!",305,376,681,1536,266,0,2026-03-05T19:31:13.545992
+9,NPC,who should you roast a chicken for?,gpt-4o,0.0,1.0,"Roast a chicken for anyone who enjoys a hearty, comforting meal! It's a versatile dish suitable for family dinners, hosting friends, or even a delicious meal for yourself. It's perfect for gatherings, holidays, or any occasion where you want to impress or simply enjoy a great homemade meal.",309,59,368,291,48,0,2026-03-05T19:31:16.291987
+10,NPC,s,gpt-4o,0.0,1.0,Hello! How can I assist you today?,302,11,313,34,7,0,2026-03-05T19:31:17.341023
+11,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken generally depends on its weight. A common guideline is to roast it at 375°F (190°C) for about 20 minutes per pound (450 grams), plus an additional 15 minutes. 
+
+For example:
+
+- A 4-pound chicken might take about 1 hour and 35 minutes.
+- A 5-pound chicken might take about 1 hour and 55 minutes.
+
+Always check that the internal temperature reaches 165°F (75°C) at the thickest part (usually the thigh) to ensure it's fully cooked. Let the chicken rest for about 10-15 minutes before carving.",307,127,434,509,88,0,2026-03-05T19:31:21.410909
+12,NPC,v,gpt-4o,0.0,1.0,Hello! How can I assist you today?,302,11,313,34,7,0,2026-03-05T19:31:21.981826
+13,NPC,Roast chicken,gpt-4o,0.0,1.0,"Roast chicken is a classic and delicious dish that's easy to prepare. Here's a basic recipe to get you started:
+
+### Ingredients:
+- 1 whole chicken (about 4-5 pounds)
+- 2 tablespoons olive oil or melted butter
+- Salt and pepper
+- 1 lemon, halved
+- 1 head of garlic, halved
+- Fresh herbs (such as rosemary, thyme, or parsley)
+- Optional: Vegetables for roasting (like carrots, potatoes, and onions)
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Pat the chicken dry with paper towels. Dry skin helps it crisp up.
+   - Season the cavity with salt and pepper. Stuff it with lemon halves, garlic, and herbs.
+   - Rub the outside with olive oil or melted butter, then season generously with salt and pepper.
+
+3. **Tie the Legs:**
+   - You might want to tie the legs together with kitchen twine for even cooking.
+
+4. **Roast the Chicken:**
+   - Place the chicken breast-side up in a roasting pan. If using, surround it with chopped vegetables.
+   - Roast in the preheated oven for about 1.5 hours, or until the internal temperature reaches 165°F (74°C).
+
+5. **Let It Rest:**
+   - Remove from the oven and let it rest for about 10-15 minutes before carving.
+
+6. **Carve and Serve:**
+   - Carve the chicken and serve with roasted vegetables or your choice of sides.
+
+Enjoy your beautifully roasted chicken!",304,341,645,1371,234,0,2026-03-05T19:31:30.146604
+14,NPC,how long should i roast my chicken,gpt-4o,0.0,1.0,"To roast a chicken, follow these general guidelines:
+
+1. **Temperature**: Preheat your oven to 375°F (190°C).
+
+2. **Cooking Time**: Roast the chicken for about 20 minutes per pound (450 grams). For example, a 4-pound (about 1.8 kg) chicken would take approximately 1 hour and 20 minutes.
+
+3. **Internal Temperature**: The chicken is done when the internal temperature reaches 165°F (74°C) in the thickest part of the thigh, away from the bone.
+
+4. **Resting**: Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Always ensure the chicken is cooked thoroughly for safety.",308,152,460,617,98,0,2026-03-05T19:31:33.958342
+15,NPC,chicken roast,gpt-4o,0.0,1.0,"Here's a simple and delicious chicken roast recipe for you:
+
+### Ingredients:
+- 1 whole chicken (about 3-4 pounds)
+- 2 tablespoons olive oil
+- 1 lemon, halved
+- 4 garlic cloves, minced
+- 2 teaspoons salt
+- 1 teaspoon black pepper
+- 1 teaspoon dried thyme
+- 1 teaspoon dried rosemary
+- 1 teaspoon paprika
+- Fresh herbs (like rosemary or thyme sprigs) for garnish
+- Vegetables like carrots, potatoes, and onions (optional)
+
+### Instructions:
+1. **Preheat Your Oven:**
+   - Preheat the oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Pat the chicken dry with paper towels.
+   - Place the chicken on a roasting pan or a rimmed baking sheet.
+
+3. **Season the Chicken:**
+   - In a small bowl, mix olive oil, garlic, salt, pepper, thyme, rosemary, and paprika.
+   - Rub this mixture all over the chicken, including under the skin and inside the cavity.
+   - Squeeze the lemon juice over the chicken and place the lemon halves inside the cavity.
+
+4. **Add Vegetables (Optional):**
+   - If using, scatter the vegetables around the chicken in the roasting pan.
+
+5. **Roast the Chicken:**
+   - Place the chicken in the oven and roast for about 1-1.5 hours, or until the internal temperature reaches 165°F (74°C) at the thickest part of the thigh.
+   - Baste the chicken with its juices halfway through cooking.
+
+6. **Rest the Chicken:**
+   - Once cooked, remove the chicken from the oven and let it rest for about 10-15 minutes before carving.
+
+7. **Serve:**
+   - Garnish with fresh herbs and serve with the roasted vegetables.
+
+Enjoy your homemade chicken roast!",304,391,695,1561,263,0,2026-03-05T19:31:42.674614
+16,NPC,how long should i roast a chicken for,gpt-4o,0.0,1.0,"To roast a whole chicken, you'll generally want to cook it at 350°F (175°C) for about 20 minutes per pound. Here’s a basic guide:
+
+1. **3-pound chicken**: Roast for 60 minutes.
+2. **4-pound chicken**: Roast for 80 minutes.
+3. **5-pound chicken**: Roast for 100 minutes.
+
+Always check that the internal temperature reaches 165°F (75°C) in the thickest part of the thigh without touching the bone. Let it rest for about 10-15 minutes before carving to keep it juicy.",309,122,431,464,78,0,2026-03-05T19:31:46.205717
+17,NPC,how should i roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken is a delicious way to prepare it. Here's a simple recipe to help you get started:
+
+### Ingredients:
+- 1 whole chicken (about 3-4 pounds)
+- 2 tablespoons olive oil or melted butter
+- Salt and pepper to taste
+- Optional herbs and spices: rosemary, thyme, garlic, lemon, paprika, etc.
+- Vegetables for roasting (carrots, onions, potatoes, etc.), if desired
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Remove any giblets from the chicken cavity.
+   - Pat the chicken dry with paper towels. Drying the skin helps it become crispy.
+
+3. **Season the Chicken:**
+   - Rub the chicken with olive oil or melted butter.
+   - Season generously with salt and pepper.
+   - Add any additional herbs or spices you like. You can stuff the cavity with lemon halves, garlic cloves, or herbs like rosemary and thyme for added flavor.
+
+4. **Prepare Vegetables (Optional):**
+   - If you're roasting vegetables, cut them into large chunks and place them in the bottom of a roasting pan.
+   - Drizzle with a bit of olive oil, and season with salt and pepper.
+
+5. **Roast the Chicken:**
+   - Place the chicken, breast side up, on a rack in the roasting pan. If you don't have a rack, you can place it directly on the bed of vegetables.
+   - Roast in the preheated oven for about 1 to 1.5 hours, or until the internal temperature of the chicken reaches 165°F (75°C) in the thickest part of the thigh.
+
+6. **Rest the Chicken:**
+   - Once cooked, remove the chicken from the oven and let it rest for about 10-15 minutes before carving. This allows the juices to redistribute.
+
+7. **Carve and Serve:**
+   - Carve the chicken and serve with the roasted vegetables or your choice of sides.
+
+Enjoy your perfectly roasted chicken!",306,432,738,1791,307,0,2026-03-05T19:31:57.592980
+18,NPC,how long do i roast a chicken for,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and your oven temperature. A general guideline is:
+
+- Roast at 350°F (175°C) for about 20 minutes per pound, plus an additional 15 minutes.
+
+Ensure the internal temperature reaches 165°F (75°C) by checking the thickest part of the chicken, like the breast or thigh, with a meat thermometer. Let it rest for a few minutes before carving.",309,89,398,387,65,0,2026-03-05T19:32:02.016575
+19,NPC,how long should i roast chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 375°F (190°C). Here’s a general guideline:
+
+- 3 to 4 pounds: Roast for 1 to 1.5 hours.
+- 4 to 5 pounds: Roast for 1.5 to 2 hours.
+- 5 to 6 pounds: Roast for 2 to 2.5 hours.
+
+Ensure the chicken reaches an internal temperature of 165°F (75°C) in the thickest part of the breast and the innermost part of the thigh. 
+
+Rest the chicken for about 10-15 minutes before carving to allow the juices to redistribute.",307,139,446,478,90,0,2026-03-05T19:32:04.128888
+20,NPC,time to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here's a simple guideline:
+
+- **3-pound chicken**: ~1 hour
+- **4-pound chicken**: ~1 hour 20 minutes
+- **5-pound chicken**: ~1 hour 40 minutes
+
+Always ensure the internal temperature reaches 165°F (75°C) for safety. Let it rest for about 10-15 minutes before carving.",305,95,400,347,55,0,2026-03-05T19:32:07.227582
+21,NPC,how long you should roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and the temperature you're using. A general guideline is:
+
+- **350°F (175°C):** Roast for about 20 minutes per pound (450 grams).
+
+For example:
+- A 4-pound (1.8 kg) chicken would take approximately 1 hour and 20 minutes.
+- A 5-pound (2.3 kg) chicken would take approximately 1 hour and 40 minutes.
+
+Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the chicken to ensure it’s fully cooked. Let it rest for a few minutes before carving.",308,130,438,516,89,0,2026-03-05T19:32:11.231307
+22,NPC,chicken roast time,gpt-4o,0.0,1.0,"The roasting time for chicken depends on its weight and whether it's whole or in pieces. Here are some general guidelines:
+
+### Whole Chicken
+- **350°F (175°C):** Roast for about 20 minutes per pound.
+- **Example:** A 4-pound chicken would take about 1 hour and 20 minutes.
+
+### Chicken Pieces
+- **Bone-in, Skin-on:** Roast at 375°F (190°C) for 35-45 minutes.
+- **Boneless, Skinless:** Roast at 375°F (190°C) for 25-30 minutes.
+
+### Tips
+- Always ensure the internal temperature reaches 165°F (74°C).
+- Let the chicken rest for about 10 minutes before carving to allow the juices to redistribute.
+
+Adjust times based on your oven’s specifics, and use a meat thermometer for best results.",305,173,478,687,113,0,2026-03-05T19:32:15.092018
+23,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"The roasting time for a whole chicken depends on its weight and the oven temperature. Here's a general guideline:
+
+- **At 350°F (175°C)**: Roast the chicken for about 20 minutes per pound. This means a 4-pound chicken would take approximately 80 minutes.
+
+- **At 375°F (190°C)**: Roast for about 18 minutes per pound.
+
+- **At 400°F (205°C)**: Roast for about 15 minutes per pound.
+
+Always check that the internal temperature reaches 165°F (75°C) in the thickest part of the chicken for safety. Let it rest for about 10-15 minutes before carving.",306,137,443,545,91,0,2026-03-05T19:32:19.508467
+24,NPC,roasted chicken recipe,gpt-4o,0.0,1.0,"Here's a simple and delicious roasted chicken recipe:
+
+### Ingredients:
+- 1 whole chicken (about 4-5 pounds)
+- Salt and freshly ground black pepper
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 cloves garlic, smashed
+- Fresh herbs (such as thyme, rosemary, or parsley)
+- 1 onion, quartered
+- Optional: Vegetables like carrots, potatoes, or celery to roast alongside
+
+### Instructions:
+
+1. **Preheat Oven**: Preheat your oven to 425°F (220°C).
+
+2. **Prepare Chicken**: 
+   - Remove the chicken giblets. Pat the chicken dry with paper towels.
+   - Season the inside of the chicken with salt and pepper.
+
+3. **Stuff Chicken**: 
+   - Stuff the cavity with lemon halves, garlic cloves, and fresh herbs.
+
+4. **Season Outside**: 
+   - Rub the outside of the chicken with olive oil or melted butter.
+   - Season generously with salt and pepper.
+
+5. **Truss Chicken** (optional):
+   - Tie the legs together with kitchen string and tuck the wing tips under the body. This helps the chicken cook evenly.
+
+6. **Prepare Pan**:
+   - Place the onion pieces at the bottom of a roasting pan to act as a rack. You can also add carrots, potatoes, or celery around the chicken if desired.
+
+7. **Roast**:
+   - Place the chicken breast side up on top of the onions/vegetables.
+   - Roast in the preheated oven for about 1.5 hours, or until the internal temperature reaches 165°F (74°C) and the juices run clear.
+
+8. **Rest**:
+   - Remove the chicken from the oven and let it rest for about 10-15 minutes before carving. This allows the juices to redistribute.
+
+9. **Serve**:
+   - Carve the chicken and serve it with the roasted vegetables and any pan juices.
+
+Enjoy your roasted chicken!",305,414,719,1684,282,0,2026-03-05T19:32:36.702832
+25,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken generally involves cooking it at a temperature of 350°F (175°C). The cooking time depends on the weight of the chicken:
+
+- **Whole chicken:** Roast for about 20 minutes per pound (450 grams).
+- **Example:** A 4-pound chicken would take around 80 minutes.
+
+Ensure the internal temperature reaches 165°F (74°C) for safety. Always let the chicken rest for about 10-15 minutes before carving.",308,95,403,407,65,0,2026-03-05T19:32:39.325785
+26,NPC,How long do you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a general guideline:
+
+- **3-pound chicken**: Roast for about 1 hour.
+- **4-pound chicken**: Roast for about 1 hour and 20 minutes.
+- **5-pound chicken**: Roast for about 1 hour and 40 minutes.
+
+Ensure the internal temperature reaches 165°F (75°C). Let it rest for 10-15 minutes before carving.",308,102,410,380,62,0,2026-03-05T19:32:42.087843
+27,NPC,How long should you generally roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken generally depends on its weight. A common guideline is to roast at 375°F (190°C) for about 20 minutes per pound (450 grams) plus an additional 15 minutes. However, it's important to ensure that the internal temperature reaches 165°F (75°C) for safety. It's also a good idea to let the chicken rest for about 10-15 minutes after roasting to allow the juices to redistribute.",310,91,401,392,66,0,2026-03-05T19:32:45.948346
+28,NPC,How long should I roast chicken?,gpt-4o,0.0,1.0,"The roasting time for a whole chicken depends on its weight and the oven temperature. Here's a general guideline:
+
+- **Oven Temperature**: 350°F (175°C)
+- **Roasting Time**: About 20 minutes per pound (450 grams) plus an additional 15 minutes.
+
+For example, a 4-pound chicken would need approximately 1 hour and 35 minutes. It's important to check the internal temperature; the chicken should reach 165°F (75°C) in the thickest part.
+
+Let the chicken rest for about 10-15 minutes before carving to keep it juicy.",308,123,431,512,83,0,2026-03-05T19:32:50.291929
+29,NPC,e,gpt-4o,0.0,1.0,Hello! How can I assist you today?,302,11,313,34,7,0,2026-03-05T19:32:51.167387
+30,NPC,how long is the best time to roast a chicken,gpt-4o,0.0,1.0,"The best time to roast a chicken depends on its weight and the temperature of your oven. A general guideline is to roast at 375°F (190°C) for about 20 minutes per pound (450 grams). Here's a summary:
+
+- **3-4 lb (1.4-1.8 kg) chicken**: Roast for 1 to 1.5 hours.
+- **5-6 lb (2.3-2.7 kg) chicken**: Roast for 1.5 to 2 hours.
+
+Always ensure the internal temperature reaches 165°F (74°C) in the thickest part of the bird, like the thigh, to ensure it's fully cooked. Use a meat thermometer to check.
+
+Rest the chicken for about 10-15 minutes before carving to allow the juices to redistribute.",311,167,478,589,105,0,2026-03-05T19:32:56.470394
+31,NPC,how long I should roast a chicken,gpt-4o,0.0,1.0,"The time it takes to roast a chicken depends on its weight and your oven temperature. A standard guideline is:
+
+- **350°F (175°C):** Roast the chicken for about 20 minutes per pound.
+
+For example, a 4-pound chicken would take around 80 minutes (1 hour and 20 minutes) at 350°F.
+
+Make sure the internal temperature reaches 165°F (75°C) to ensure it's fully cooked. Always let the chicken rest for about 10-15 minutes before carving.",308,105,413,431,73,0,2026-03-05T19:32:58.857106
+32,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its size and the oven temperature. Here's a general guideline:
+
+- **At 350°F (175°C):** Roast for about 20 minutes per pound, plus an additional 10-20 minutes.
+- **At 400°F (205°C):** Roast for about 15 minutes per pound, plus an additional 10-20 minutes.
+
+Always ensure the internal temperature reaches 165°F (75°C) at the thickest part of the chicken for safety. Let it rest for about 10-15 minutes before carving.",306,116,422,456,74,0,2026-03-05T19:33:04.006148
+33,NPC,how long should a chicken be roasted,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). For example:
+
+- A 4-pound chicken would roast for about 80 minutes.
+- A 5-pound chicken for about 100 minutes.
+
+To ensure it’s fully cooked, check that the internal temperature reaches 165°F (75°C) in the thickest part of the thigh, without touching the bone. Let it rest for about 10-15 minutes before carving.",308,98,406,391,66,0,2026-03-05T19:33:06.990532
+34,NPC,roast chicken recipe,gpt-4o,0.0,1.0,"Here’s a simple and delicious roast chicken recipe:
+
+### Ingredients:
+- 1 whole chicken (about 3-4 pounds)
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 cloves garlic, smashed
+- Fresh rosemary or thyme sprigs
+- Salt and pepper to taste
+- Vegetables for roasting (e.g., carrots, onions, potatoes)
+
+### Instructions:
+
+1. **Preheat Oven:**
+   Preheat your oven to 425°F (220°C).
+
+2. **Prepare Chicken:**
+   Pat the chicken dry with paper towels. Remove any giblets if necessary.
+
+3. **Season Chicken:**
+   Rub the olive oil or melted butter all over the chicken. Season generously with salt and pepper, including inside the cavity.
+
+4. **Add Aromatics:**
+   Squeeze the lemon over the chicken, then place the lemon halves inside the cavity along with the garlic and herb sprigs.
+
+5. **Arrange Vegetables:**
+   Place a layer of vegetables in a roasting pan. Drizzle with a bit of olive oil, salt, and pepper. Place the chicken on top of the vegetables.
+
+6. **Tuck and Tie:**
+   Tuck the wingtips under the body and tie the legs together with kitchen twine if desired.
+
+7. **Roast:**
+   Roast in the preheated oven for about 1 to 1.5 hours, or until the internal temperature of the thickest part of the thigh reaches 165°F (74°C) and the juices run clear.
+
+8. **Rest:**
+   Remove the chicken from the oven and let it rest for about 10-15 minutes before carving.
+
+9. **Serve:**
+   Carve the chicken and serve it with the roasted vegetables.
+
+Enjoy your meal!",305,372,677,1471,244,0,2026-03-05T19:33:15.544745
+35,NPC,How long should I roast a chicken for.,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it at 375°F (190°C) for about 20 minutes per pound, plus an additional 15 minutes. Here’s a basic breakdown:
+
+- **3 to 4-pound chicken**: Roast for approximately 1 hour and 15 minutes to 1 hour and 30 minutes.
+- **5 to 6-pound chicken**: Roast for approximately 1 hour and 45 minutes to 2 hours.
+
+Always ensure the internal temperature reaches 165°F (74°C) in the thickest part of the meat (typically the thigh) without touching the bone. Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",310,147,457,579,101,0,2026-03-05T19:33:18.482732
+36,NPC,How long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting time for a chicken depends on its weight and the temperature you use. A general guideline is:
+
+- **Oven Temperature:** 350°F (175°C)
+- **Cooking Time:** About 20 minutes per pound (450 grams)
+
+For example, a 4-pound (1.8 kg) chicken would take approximately 1 hour and 20 minutes.
+
+**Tips:**
+- **Preheat the oven** before placing the chicken inside.
+- Check that the internal temperature reaches 165°F (75°C) at the thickest part of the breast and thigh.
+- Let it rest for 10-15 minutes before carving for juicier meat.
+
+Adding herbs, lemon, garlic, or butter can enhance flavor. Always make sure the chicken is fully cooked before serving.",308,160,468,649,107,0,2026-03-05T19:33:35.064687
+37,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves cooking it at 375-400°F (190-200°C) for about 20 minutes per pound. Here’s a general guideline:
+
+1. **Preheat your oven** to 375-400°F (190-200°C).
+2. **Calculate cooking time** as 20 minutes per pound plus an additional 10-20 minutes. For example, a 4-pound chicken would take about 90-100 minutes.
+3. **Check for doneness** by ensuring the internal temperature reaches 165°F (74°C) in the thickest part of the thigh.
+4. **Rest the chicken** for 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust cooking time based on your oven's performance. Using a meat thermometer is the best way to ensure it's cooked properly.",308,171,479,678,106,0,2026-03-05T19:33:38.799672
+38,NPC,best way to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken is a classic cooking technique that can produce delicious results. Here's a simple method to achieve a juicy and flavorful roast chicken:
+
+### Ingredients:
+- 1 whole chicken (about 4-5 pounds)
+- Salt and pepper
+- Olive oil or melted butter
+- Fresh herbs (such as thyme, rosemary, or parsley)
+- 1 lemon, halved
+- 4-5 garlic cloves, crushed
+
+### Instructions:
+
+1. **Preparation:**
+   - Preheat your oven to 425°F (220°C).
+   - Pat the chicken dry with paper towels to ensure the skin gets crispy.
+
+2. **Seasoning:**
+   - Generously season the inside and outside of the chicken with salt and pepper.
+   - Stuff the cavity with the lemon halves, crushed garlic, and a few sprigs of fresh herbs.
+
+3. **Trussing (Optional):**
+   - Tie the legs together with kitchen twine for even cooking.
+
+4. **Coating:**
+   - Rub the outside of the chicken with olive oil or melted butter. This enhances crispiness and flavor. You can also sprinkle additional herbs on top if desired.
+
+5. **Roasting:**
+   - Place the chicken breast-side up on a rack in a roasting pan.
+   - Roast in the preheated oven until the thickest part of the thigh registers 165°F (74°C) on a meat thermometer, about 1 to 1.5 hours.
+
+6. **Resting:**
+   - Remove the chicken from the oven and let it rest for about 10-15 minutes before carving. This helps retain the juices.
+
+7. **Serving:**
+   - Carve and serve the roasted chicken with your choice of sides.
+
+### Tips:
+- **Flavor Variations:** Experiment with different spices and herbs for varied flavors.
+- **Vegetables:** Add root vegetables like carrots and potatoes to the roasting pan for an easy side dish.
+- **Juiciness:** Baste the chicken occasionally with its juices for extra moisture.
+
+Enjoy your perfectly roasted chicken!",306,420,726,1761,291,0,2026-03-05T19:33:48.347391
+39,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically requires you to cook it at 350°F (175°C) for about 20 minutes per pound. Here are some general guidelines:
+
+- **3-4 pound chicken**: 1 to 1.5 hours
+- **4-5 pound chicken**: 1.5 to 2 hours
+- **5-7 pound chicken**: 2 to 2.5 hours
+
+Always check that the internal temperature of the thickest part of the chicken, such as the thigh, reaches 165°F (75°C) to ensure it is fully cooked. Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,143,451,504,89,0,2026-03-05T19:33:50.798878
+40,NPC,how long dose it take to roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound (approximately 45 minutes per kilogram) at 350°F (175°C). 
+
+For example, a 4-pound chicken would take approximately 1 hour and 20 minutes. However, it's important to check that the internal temperature reaches 165°F (75°C) to ensure it's fully cooked. 
+
+Always let the chicken rest for about 10-15 minutes before carving to keep it juicy.",311,94,405,400,63,0,2026-03-05T19:33:53.693515
+41,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"To roast a chicken, the general rule is to cook it at 350°F (175°C) for about 20 minutes per pound. Ensure the internal temperature reaches 165°F (75°C) in the thickest part of the meat. Here's a basic guideline:
+
+- 3-pound chicken: Roast for about 1 hour.
+- 4-pound chicken: Roast for about 1 hour and 20 minutes.
+- 5-pound chicken: Roast for about 1 hour and 40 minutes.
+
+Always let it rest for 10-15 minutes before carving to let the juices redistribute.",308,121,429,457,82,0,2026-03-05T19:33:57.230510
+42,NPC,how to bake something,gpt-4o,0.0,1.0,"Sure! What would you like to bake? Some common options are cookies, cake, or bread. Let me know, and I can provide a simple recipe.",305,34,339,131,25,0,2026-03-05T19:33:58.465535
+43,NPC,How long do I roast chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 375°F (190°C). Here’s a general guide:
+
+- **4-pound chicken**: 1 hour 20 minutes
+- **5-pound chicken**: 1 hour 40 minutes
+
+Make sure the internal temperature reaches 165°F (74°C) at the thickest part of the meat, and let it rest for 10-15 minutes before carving. This ensures juiciness and allows the juices to redistribute.",307,104,411,395,65,0,2026-03-05T19:34:01.225409
+44,NPC,how long should you cook a chicken,gpt-4o,0.0,1.0,"The cooking time for a chicken depends on the method and size of the bird. Here are some general guidelines:
+
+1. **Whole Chicken (Roasting):**
+   - **Oven Temperature:** 375°F (190°C)
+   - **Cooking Time:** About 20 minutes per pound, plus an additional 15 minutes. For example, a 4-pound chicken would take approximately 95 minutes.
+
+2. **Chicken Pieces (Baking):**
+   - **Oven Temperature:** 375°F (190°C)
+   - **Cooking Time:** 30-40 minutes, or until the internal temperature reaches 165°F (74°C).
+
+3. **Whole Chicken (Boiling):**
+   - **Cooking Time:** 1.5 to 2 hours, depending on size.
+
+4. **Chicken Breasts (Pan-Frying):**
+   - **Cooking Time:** 6-8 minutes per side.
+
+Always check the internal temperature with a meat thermometer to ensure it reaches 165°F (74°C).",308,207,515,773,114,0,2026-03-05T19:34:05.894018
+45,NPC,Recommended chicken roast time,gpt-4o,0.0,1.0,"For roasting a chicken, the recommended time can vary depending on the weight of the bird and the temperature of your oven. A general guideline is:
+
+- **Temperature**: Roast at 350°F (175°C).
+- **Roasting Time**: Allow about 20 minutes per pound.
+
+For example, a 4-pound chicken would typically roast for about 80 minutes. Always ensure the chicken reaches an internal temperature of 165°F (75°C) to be safe for eating.
+
+### Tips:
+- Let the chicken rest for about 10-15 minutes before carving.
+- Use a meat thermometer to check the temperature in the thickest part of the breast and thigh.",305,137,442,589,100,0,2026-03-05T19:34:11.015287
+46,NPC,how long should you roast the chicken,gpt-4o,0.0,1.0,"Roasting time for a chicken depends on its weight:
+
+- **Whole Chicken**: Roast at 375°F (190°C) for about 20 minutes per pound (450g). An average 4-pound chicken will take around 1 hour and 20 minutes.
+  
+- **Checking Doneness**: Use a meat thermometer to check the internal temperature. It should reach 165°F (74°C) in the thickest part of the thigh.
+
+- **Resting**: Let the chicken rest for about 10-15 minutes before carving to retain juices.
+
+Always ensure your chicken reaches the appropriate internal temperature for safety.",308,128,436,530,85,0,2026-03-05T19:34:13.876443
+47,NPC,how long you should roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves these steps:
+
+1. **Preheat the Oven**: Set your oven to 425°F (220°C).
+
+2. **Season the Chicken**: Season the chicken with salt, pepper, and any other herbs or spices you prefer. You may also stuff the cavity with aromatics like garlic, onion, or lemon.
+
+3. **Roasting Time**: 
+
+   - **General Guideline**: Roast the chicken for about 20 minutes per pound (450 grams).
+   - For example, a 4-pound (1.8 kg) chicken would take approximately 1 hour and 20 minutes.
+
+4. **Check for Doneness**: Use a meat thermometer to ensure the internal temperature of the thickest part of the thigh is at least 165°F (74°C).
+
+5. **Resting Time**: Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+These are general guidelines; always ensure accurate cooking with a thermometer.",308,208,516,846,136,0,2026-03-05T19:34:17.541730
+48,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+1. **3-4 pounds:** Roast for 1 to 1.5 hours.
+2. **4-5 pounds:** Roast for 1.5 to 2 hours.
+3. **5-6 pounds:** Roast for 2 to 2.5 hours.
+
+Always ensure the internal temperature reaches 165°F (75°C) at the thickest part of the chicken. Let it rest for about 10-15 minutes before carving.",307,119,426,393,68,0,2026-03-05T19:34:20.629996
+49,NPC,how long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. As a general guideline:
+
+- **At 350°F (175°C):** Roast for about 20 minutes per pound (about 45 minutes per kilogram), plus an additional 15 minutes.
+  
+- **At 400°F (200°C):** Roast for about 15 minutes per pound (about 33 minutes per kilogram).
+
+Ensure the internal temperature reaches 165°F (75°C) in the thickest part of the thigh to ensure it's fully cooked. Let the chicken rest for about 10-15 minutes before carving to retain juices.",308,122,430,493,81,0,2026-03-05T19:34:24.019053
+50,NPC,how look should i cook a chicken for,gpt-4o,0.0,1.0,"To cook chicken safely, you'll want to consider the method and ensure it reaches an internal temperature of 165°F (75°C). Here's a general guide based on different cooking methods:
+
+1. **Roasting/Baking**: 
+   - Whole chicken: 20 minutes per pound at 350°F (175°C).
+   - Boneless breasts: 20-30 minutes at 375°F (190°C).
+   - Bone-in pieces: 30-40 minutes at 375°F (190°C).
+
+2. **Grilling**:
+   - Boneless breasts: 6-8 minutes per side.
+   - Thighs: 10-12 minutes per side.
+
+3. **Sautéing**:
+   - Boneless breasts: 5-7 minutes per side.
+   
+4. **Boiling**:
+   - Whole chicken: 1.5 to 2 hours.
+   - Breasts: 15-20 minutes.
+
+Always ensure it reaches the safe internal temperature before consuming.",309,205,514,695,104,0,2026-03-05T19:34:30.581211
+51,NPC,How long do you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is to roast at 375°F (190°C) for about 20 minutes per pound plus an additional 15 minutes. 
+
+For a 4-pound chicken, this would be approximately 1 hour and 35 minutes.
+
+Always ensure the internal temperature reaches 165°F (75°C) using a meat thermometer for safety. Let it rest for about 10-15 minutes before carving.",308,93,401,388,64,0,2026-03-05T19:34:33.863716
+52,NPC,how long should i roast a chicken?,gpt-4o,0.0,1.0,"Roasting times for chicken can vary depending on the size of the bird and the oven temperature. A common guide is:
+
+- **Whole chicken**: Roast at 350°F (175°C) for about 20 minutes per pound. 
+- **Chicken pieces**: Usually take about 30-40 minutes at 375°F (190°C).
+
+Always ensure the internal temperature reaches 165°F (74°C) to ensure it's fully cooked. Let it rest for 10-15 minutes before carving for juicier meat.",309,108,417,418,69,0,2026-03-05T19:34:36.726749
+53,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves the following general guidelines:
+
+1. **Whole Chicken:** Roast at 350°F (175°C) for about 20 minutes per pound (450 grams). So, a 4-pound chicken would take approximately 80 minutes.
+
+2. **Check Doneness:** The internal temperature should reach 165°F (74°C) when measured with a meat thermometer in the thickest part of the thigh, avoiding the bone.
+
+3. **Resting Time:** Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Cooking times can vary based on oven efficiency, chicken size, and whether it's stuffed, so it's good to monitor closely.",307,142,449,629,98,0,2026-03-05T19:34:40.125390
+54,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"The roasting time for chicken depends on the weight of the bird and the oven temperature. A general guideline is:
+
+- **Whole Chicken at 350°F (175°C):** Roast for about 20 minutes per pound (450 grams). 
+- **Whole Chicken at 400°F (200°C):** Roast for about 15-17 minutes per pound.
+
+Always ensure the internal temperature reaches 165°F (75°C) using a meat thermometer, measured at the thickest part of the chicken, without touching the bone. Let the chicken rest for about 10 minutes before carving.",306,119,425,500,82,0,2026-03-05T19:34:43.073412
+55,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is:
+
+- Preheat your oven to 375°F (190°C).
+- Roast the chicken for about 20 minutes per pound (450 grams), plus an additional 15 minutes overall.
+
+For example, a 4-pound chicken should roast for about 1 hour and 35 minutes. However, the best way to ensure it's cooked is by checking the internal temperature. The thickest part of the chicken, like the thigh, should reach 165°F (74°C).
+
+Remember to let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,132,440,567,96,0,2026-03-05T19:34:46.293228
+56,NPC,chicken roast time,gpt-4o,0.0,1.0,"The roasting time for chicken can vary based on the size and whether it's whole or in parts. Here are some general guidelines:
+
+### Whole Chicken
+- **350°F (175°C):** Roast for about 20 minutes per pound.
+  - For a 4-pound chicken, roast for about 1 hour and 20 minutes.
+- **400°F (200°C):** Roast for about 15 minutes per pound.
+  - For a 4-pound chicken, roast for about 1 hour.
+
+### Chicken Parts
+- **Bone-in, skin-on thighs:** 35-45 minutes at 375°F (190°C).
+- **Boneless, skinless breasts:** 20-30 minutes at 375°F (190°C).
+
+### Tips
+- Always ensure the internal temperature reaches 165°F (74°C).
+- Let the chicken rest for about 10 minutes before carving to retain juices.
+
+Adjust times based on your oven and specific preferences.",305,194,499,737,124,0,2026-03-05T19:34:53.965316
+57,NPC,How to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken is a delicious and straightforward process. Here's a basic recipe:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds)
+- Salt and pepper
+- Olive oil or melted butter
+- Optional: lemon, garlic, fresh herbs (like rosemary, thyme, or parsley)
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Remove the giblets from the chicken cavity if present.
+   - Pat the chicken dry with paper towels, which helps the skin get crispy.
+
+3. **Season:**
+   - Generously season the inside and outside of the chicken with salt and pepper.
+   - Rub the chicken with olive oil or melted butter.
+
+4. **Optional Stuffing:**
+   - Stuff the cavity with halved lemon, garlic cloves, and sprigs of fresh herbs for added flavor.
+
+5. **Truss the Chicken (Optional):**
+   - Tie the legs together with kitchen twine to ensure even cooking.
+
+6. **Roast:**
+   - Place the chicken breast-side up on a rack in a roasting pan.
+   - Roast in the preheated oven for about 1 to 1.5 hours, or until a meat thermometer reads 165°F (75°C) when inserted into the thickest part of the thigh.
+
+7. **Baste (Optional):**
+   - Occasionally baste the chicken with its juices for extra moisture and flavor.
+
+8. **Rest:**
+   - Let the chicken rest for about 10-15 minutes after removing it from the oven. This helps the juices redistribute throughout the meat.
+
+9. **Carve and Serve:**
+   - Carve the chicken and serve with your choice of sides.
+
+Enjoy your perfectly roasted chicken!",306,373,679,1520,251,0,2026-03-05T19:35:19.186111
+58,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and your oven temperature. A general guideline is to roast at 350°F (175°C) for:
+
+- **3 to 4 pounds**: 1 hour to 1 hour and 30 minutes
+- **4 to 5 pounds**: 1 hour and 30 minutes to 1 hour and 45 minutes
+- **5 to 6 pounds**: 1 hour and 45 minutes to 2 hours
+
+Make sure the internal temperature reaches 165°F (75°C) in the thickest part of the thigh. Always let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",306,140,446,484,94,0,2026-03-05T19:35:22.144064
+59,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, you generally need to cook it for about 20 minutes per pound at 350°F (175°C). It's essential to ensure the internal temperature reaches at least 165°F (75°C) in the thickest part of the chicken. Here's a quick guide:
+
+- A 4-pound chicken: Approximately 80 minutes
+- A 5-pound chicken: Approximately 100 minutes
+- A 6-pound chicken: Approximately 120 minutes
+
+Always use a meat thermometer to check for doneness. Let the chicken rest for about 10-15 minutes after roasting before carving.",309,122,431,508,84,0,2026-03-05T19:35:24.351458
+60,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here’s a general guideline:
+
+1. **Whole Chicken**: 
+   - 3 to 4 pounds: Roast for about 1 to 1.5 hours.
+   - 5 to 6 pounds: Roast for about 1.5 to 2 hours.
+
+2. **Ensure Doneness**: 
+   - Use a meat thermometer inserted into the thickest part of the thigh, avoiding bone. It should read 165°F (74°C).
+
+3. **Resting**: 
+   - Let the chicken rest for about 10-15 minutes before carving to allow juices to redistribute.
+
+Adjust time and temperature based on the specific recipe or personal preference for skin crispiness.",308,162,470,597,100,0,2026-03-05T19:35:29.681169
+61,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and the cooking temperature. Here's a general guideline:
+
+1. **Preheat Oven:** 375°F (190°C).
+2. **Cooking Time:** 
+   - Whole Chicken: About 20 minutes per pound.
+   - For example, a 4-pound chicken would take around 1 hour and 20 minutes.
+
+3. **Check for Doneness:** 
+   - The internal temperature should reach 165°F (74°C) when measured at the thickest part of the meat (typically the thigh), not touching the bone.
+   - Juices should run clear.
+
+4. **Rest:** Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust times as needed based on your specific oven and preferences.",306,163,469,679,108,0,2026-03-05T19:35:34.409702
+62,NPC,How long do I roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a general guideline:
+
+- **3-4 pound chicken:** Roast for about 1 hour to 1 hour and 20 minutes.
+- **4-5 pound chicken:** Roast for about 1 hour and 20 minutes to 1 hour and 40 minutes.
+- **5-6 pound chicken:** Roast for about 1 hour and 40 minutes to 2 hours.
+
+To ensure it's fully cooked, check the internal temperature; it should reach 165°F (75°C) in the thickest part of the thigh. Let the chicken rest for about 10-15 minutes before carving to keep it juicy.",309,149,458,550,100,0,2026-03-05T19:35:38.828208
+63,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves cooking a whole bird at 375°F (190°C) for about 20 minutes per pound. Here's a basic guide:
+
+- **3-pound chicken**: Roast for about 60 minutes.
+- **4-pound chicken**: Roast for about 80 minutes.
+- **5-pound chicken**: Roast for about 100 minutes.
+
+Make sure the internal temperature reaches 165°F (75°C) in the thickest part of the breast and thigh. Let it rest for about 10-15 minutes before carving to keep it juicy.",308,116,424,456,76,0,2026-03-05T19:35:41.179263
+64,NPC,chicken roast time,gpt-4o,0.0,1.0,"The roasting time for chicken depends on the weight and the temperature at which you are cooking. Here's a general guideline for roasting a whole chicken:
+
+- **At 350°F (175°C):**
+  - Roast for about 20 minutes per pound (450 grams).
+  - For example, a 4-pound (1.8 kg) chicken would take around 1 hour and 20 minutes.
+
+- **At 375°F (190°C):**
+  - Roast for about 18 minutes per pound.
+  - A 4-pound chicken would take around 1 hour and 12 minutes.
+
+- **At 400°F (205°C):**
+  - Roast for about 15 minutes per pound.
+  - A 4-pound chicken would take around 1 hour.
+
+Always check the internal temperature with a meat thermometer to ensure doneness. It should reach 165°F (74°C) in the thickest part of the thigh without touching the bone.
+
+Rest the chicken for at least 10-15 minutes before carving to allow the juices to redistribute. This ensures a more flavorful and juicy chicken.",305,224,529,882,153,0,2026-03-05T19:35:45.362138
+65,NPC,How long to roast chicken?,gpt-4o,0.0,1.0,"Roasting a chicken usually depends on the chicken's weight. A common guideline is:
+
+- Roast at 375°F (190°C) for about 20 minutes per pound (450 grams).
+  
+For example:
+
+- A 4-pound chicken takes about 1 hour and 20 minutes.
+
+Make sure the internal temperature reaches 165°F (74°C) for safe consumption. It's best to check the temperature in the thickest part of the thigh without touching bone.
+
+Rest the chicken for 10-15 minutes before carving to retain juices.",307,110,417,464,77,0,2026-03-05T19:35:48.386813
+66,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a chicken generally depends on its weight and the temperature of your oven. A common guideline is to roast at 350°F (175°C) for about 20 minutes per pound, plus an additional 15 minutes. 
+
+Here's a basic guide:
+
+- A 3- to 4-pound chicken: 1 hour 15 minutes to 1 hour 30 minutes
+- A 4- to 5-pound chicken: 1 hour 20 minutes to 1 hour 45 minutes
+- A 5- to 6-pound chicken: 1 hour 45 minutes to 2 hours
+
+It's important to ensure that the internal temperature reaches 165°F (75°C) in the thickest part of the thigh without touching the bone for safe consumption. Always let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,179,487,675,125,0,2026-03-05T19:35:51.914103
+67,NPC,How long do you roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, you'll want to cook it at 350°F (175°C) for about 20 minutes per pound. Here’s a general guideline:
+
+- A 3-4 pound chicken: Roast for approximately 1 to 1.5 hours.
+- A 5-7 pound chicken: Roast for approximately 1.5 to 2.5 hours.
+
+Make sure the internal temperature reaches 165°F (74°C) when measured at the thickest part of the thigh. Let it rest for about 10-15 minutes before carving to ensure juiciness.",309,120,429,426,75,0,2026-03-05T19:35:54.473605
+68,NPC,how long to cook a chicken,gpt-4o,0.0,1.0,"Cooking a chicken depends on the weight and the cooking method. Here are some general guidelines:
+
+### Whole Chicken (Roasting)
+- **Temperature:** 350°F (175°C)
+- **Time:** About 20 minutes per pound.
+  - For a 4-pound chicken, cook for approximately 80 minutes.
+  
+### Chicken Breasts (Baking)
+- **Temperature:** 375°F (190°C)
+- **Time:** 20-30 minutes
+
+### Chicken Thighs (Baking)
+- **Temperature:** 375°F (190°C)
+- **Time:** 35-45 minutes
+
+### Internal Temperature
+Ensure the internal temperature of the chicken reaches 165°F (74°C) to be safe for consumption.
+
+Cooking times can vary based on oven performance and chicken size, so using a meat thermometer is the best way to check for doneness.",307,177,484,698,107,0,2026-03-05T19:36:01.380498
+69,NPC,How long to roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it at 375°F (190°C) for about 20 minutes per pound (450 grams). Here's a more detailed breakdown:
+
+- **3-4 pounds (1.4-1.8 kg):** Roast for 1 to 1.5 hours
+- **4-5 pounds (1.8-2.3 kg):** Roast for 1.5 to 2 hours
+- **5-6 pounds (2.3-2.7 kg):** Roast for 2 to 2.5 hours
+
+Always check that the internal temperature of the chicken reaches 165°F (74°C) in the thickest part of the thigh to ensure it's fully cooked. Let it rest for about 10-15 minutes before carving to retain its juices.",308,171,479,535,97,0,2026-03-05T19:36:05.907518
+70,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and the oven temperature. A common guideline is to roast a whole chicken at 350°F (175°C) for about 20 minutes per pound. Here's a general guide:
+
+- **3-4 pounds**: Roast for 1 hour to 1 hour and 20 minutes.
+- **4-5 pounds**: Roast for 1 hour and 20 minutes to 1 hour and 40 minutes.
+- **5-6 pounds**: Roast for 1 hour and 40 minutes to 2 hours.
+
+Always check for doneness by ensuring the internal temperature reaches 165°F (75°C) in the thickest part of the thigh. Let the chicken rest for 10-15 minutes before carving for juicier meat.",308,162,470,591,109,0,2026-03-05T19:36:10.214662
+71,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a guideline:
+
+- **3-pound chicken**: 60 minutes
+- **4-pound chicken**: 80 minutes
+- **5-pound chicken**: 100 minutes
+
+Ensure the internal temperature reaches 165°F (75°C) in the thickest part of the meat. Let it rest for about 10-15 minutes before carving to keep it juicy.",309,98,407,360,58,0,2026-03-05T19:36:15.278430
+72,NPC,how long should you roast a chicken for,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the temperature you use. A general guideline is:
+
+- **Temperature**: Preheat your oven to 350°F (175°C).
+- **Cooking Time**: Roast the chicken for about 20 minutes per pound (450 grams). 
+
+Always ensure the internal temperature reaches 165°F (75°C) in the thickest part of the bird, avoiding the bone. Rest the chicken for about 10-15 minutes before carving.",309,98,407,403,65,0,2026-03-05T19:36:18.106467
+73,NPC,how long should you roast a chicken for,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. As a general rule:
+
+- **At 350°F (175°C):** Roast for about 20 minutes per pound, plus an additional 15 minutes.
+- **At 400°F (205°C):** Roast for about 15 minutes per pound.
+
+It's essential to ensure the internal temperature reaches 165°F (75°C) using a meat thermometer, inserted into the thickest part of the breast and thigh, avoiding the bone.
+
+Remember to let the chicken rest for about 10-15 minutes after roasting to allow the juices to redistribute.",309,122,431,510,84,0,2026-03-05T19:36:22.473141
+74,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A good rule of thumb is to roast at 350°F (175°C) for about 20 minutes per pound, plus an additional 15 minutes. 
+
+For example:
+- A 4-pound chicken: About 1 hour and 35 minutes
+- A 5-pound chicken: About 1 hour and 55 minutes
+
+Ensure the internal temperature reaches 165°F (74°C) to guarantee it's fully cooked. Let it rest for about 10-15 minutes before carving.",309,110,419,415,73,0,2026-03-05T19:36:25.041824
+75,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, the general guideline is:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **Roast the chicken** for about 20 minutes per pound (450 grams).
+
+So, for example, a 4-pound (1.8 kg) chicken would take approximately 1 hour and 20 minutes. It's important to ensure the internal temperature reaches 165°F (75°C) to guarantee it's fully cooked. You can check this using a meat thermometer inserted into the thickest part of the thigh, without touching the bone.
+
+Rest the chicken for about 10-15 minutes before carving. This helps retain the juices and flavors.",307,140,447,577,95,0,2026-03-05T19:36:29.095544
+76,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"To roast a whole chicken:
+
+1. **Preheat the Oven:** Set your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:** Season and possibly stuff the chicken as desired.
+
+3. **Roasting Time:** Generally, roast for about 20 minutes per pound (450 grams). A 4-pound chicken typically takes 1 hour and 20 minutes.
+
+4. **Check Doneness:** The internal temperature should reach 165°F (75°C) in the thickest part of the thigh.
+
+5. **Rest:** Let the chicken rest for about 10-15 minutes before carving.
+
+Adjust times based on the size of the chicken and your oven.",306,139,445,550,91,0,2026-03-05T19:36:34.862120
+77,NPC,How long should you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically requires about 20 minutes per pound in a 375°F (190°C) oven. Here's a general guideline:
+
+- **3-pound chicken**: Approximately 1 hour
+- **4-pound chicken**: Approximately 1 hour 20 minutes
+- **5-pound chicken**: Approximately 1 hour 40 minutes
+
+Make sure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh. Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute. Cooking times may vary based on the oven and the chicken itself, so always check the internal temperature.",309,134,443,568,90,0,2026-03-05T19:36:37.780033
+78,NPC,instructions on how long to roast a chicken,gpt-4o,0.0,1.0,"Here's a general guideline for roasting a whole chicken:
+
+### Ingredients:
+- Whole chicken (3-5 pounds)
+- Olive oil or butter
+- Salt and pepper
+- Herbs (optional, e.g., rosemary, thyme)
+- Garlic (optional)
+
+### Instructions:
+
+1. **Preheat Oven**: Set your oven to 425°F (220°C).
+
+2. **Prep the Chicken**: 
+   - Pat the chicken dry with paper towels.
+   - Rub olive oil or butter all over the chicken.
+   - Season generously with salt, pepper, and any herbs you like.
+
+3. **Optional Stuffing**:
+   - You can stuff the cavity with lemon slices, garlic cloves, or herbs for extra flavor.
+
+4. **Truss the Chicken** (optional):
+   - Tie the legs together with kitchen twine to ensure even cooking.
+
+5. **Roast the Chicken**:
+   - Place the chicken breast-side up on a roasting pan or a rimmed baking sheet. 
+   - Roast for about 20 minutes per pound. For example, a 4-pound chicken would take about 1 hour and 20 minutes.
+
+6. **Check for Doneness**:
+   - Use a meat thermometer. The internal temperature should reach 165°F (74°C) at the thickest part of the thigh, not touching the bone.
+
+7. **Rest the Chicken**: 
+   - Let it rest for at least 10-15 minutes before carving. This allows the juices to redistribute.
+
+8. **Carve and Serve**:
+   - Carve the chicken and serve with your favorite sides.
+
+Adjust the cooking time based on the size of the chicken and your oven's characteristics. Enjoy your meal!",309,350,659,1401,234,0,2026-03-05T19:36:49.141680
+79,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken generally takes about 20 minutes per pound at 350°F (175°C). Here’s a basic guideline:
+
+1. **Preparation**: Preheat your oven to 350°F (175°C). Remove any giblets from the cavity, pat the chicken dry, and season it as desired.
+
+2. **Cooking Time**:
+   - A 3-4 pound chicken usually takes about 1 to 1.5 hours.
+   - A 4-5 pound chicken will take around 1.5 to 2 hours.
+   - A 5-6 pound chicken may take 2 to 2.5 hours.
+
+3. **Check for Doneness**: The internal temperature should reach 165°F (74°C). Measure this at the thickest part of the thigh, not touching the bone.
+
+4. **Resting**: Let the chicken rest for about 10-15 minutes before carving to retain juices.
+
+Adjust the time if you stuff the chicken, as that can increase cooking time.",307,211,518,760,131,0,2026-03-05T19:36:54.192290
+80,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically requires about 20 minutes per pound at 350°F (175°C). However, it's important to use a meat thermometer to ensure it's cooked properly. The internal temperature should reach 165°F (74°C) in the thickest part of the breast and thigh. Rest the chicken for about 10-15 minutes before carving to allow the juices to redistribute.",309,79,388,354,57,0,2026-03-05T19:36:57.139177
+81,NPC,how long you should roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, you typically need to follow these general guidelines based on the weight of the chicken:
+
+- **Whole Chicken**: Roast at 350°F (175°C).
+  - 3-4 lbs (1.4-1.8 kg): 1 hour 15 minutes to 1 hour 30 minutes
+  - 4-5 lbs (1.8-2.3 kg): 1 hour 30 minutes to 1 hour 45 minutes
+  - 5-6 lbs (2.3-2.7 kg): 1 hour 45 minutes to 2 hours
+
+To ensure it's fully cooked, the internal temperature of the thickest part of the chicken should reach 165°F (74°C). Let it rest for about 10-15 minutes before carving.",309,167,476,510,94,0,2026-03-05T19:37:01.503471
+82,NPC,how to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken is a classic and straightforward way to prepare a delicious meal. Here’s a basic guide:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds)
+- Salt
+- Black pepper
+- Olive oil or melted butter
+- Optional: garlic, lemon, herbs (like rosemary, thyme, or parsley)
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Remove the giblets from the chicken cavity if present.
+   - Pat the chicken dry with paper towels to ensure the skin crisps up.
+
+3. **Season:**
+   - Rub the chicken all over with olive oil or melted butter.
+   - Season generously with salt and black pepper, both inside the cavity and on the skin.
+   - Optionally, stuff the cavity with lemon slices, garlic cloves, and fresh herbs for extra flavor.
+
+4. **Truss the Chicken:**
+   - Tie the legs together with kitchen twine to ensure even cooking. This step is optional but helps the chicken cook more evenly.
+
+5. **Roast:**
+   - Place the chicken breast-side up on a roasting pan or a baking sheet.
+   - Roast in the preheated oven for about 1 to 1.5 hours, or until the internal temperature reaches 165°F (74°C) when measured with a meat thermometer in the thickest part of the thigh (without touching the bone).
+
+6. **Rest:**
+   - Remove the chicken from the oven and let it rest for at least 10-15 minutes before carving. This allows the juices to redistribute throughout the meat.
+
+7. **Carve and Serve:**
+   - Carve the chicken and serve with your favorite sides.
+
+### Tips:
+- Basting the chicken occasionally with its own juices helps ensure a moist result, but it’s optional.
+- If the chicken is browning too quickly, you can tent it with aluminum foil.
+
+Enjoy your delicious, homemade roast chicken!",306,417,723,1752,297,0,2026-03-05T19:37:09.324679
+83,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a whole chicken depends on its weight and the oven temperature. A common guideline is to roast at 350°F (175°C):
+
+- For a chicken weighing 3 to 4 pounds: Roast for about 1.5 to 2 hours.
+- For a chicken weighing 4 to 5 pounds: Roast for about 2 to 2.5 hours.
+
+Ensure the internal temperature reaches 165°F (74°C) at the thickest part of the thigh without touching bone.
+
+Let the chicken rest for about 10-15 minutes before carving to retain juices.",307,121,428,469,86,0,2026-03-05T19:37:11.969905
+84,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken usually depends on its weight. A general guideline is:
+
+- **350°F (175°C):** Roast for about 20 minutes per pound (450 grams). For a 4-pound chicken, this would be roughly 1 hour and 20 minutes.
+  
+- **400°F (205°C):** Roast for about 15 minutes per pound. For a 4-pound chicken, this would be about 1 hour.
+
+To ensure it's fully cooked, check the internal temperature with a meat thermometer. It should read 165°F (74°C) in the thickest part of the thigh, without touching the bone. Let the chicken rest for 10-15 minutes before carving to retain juices.",308,146,454,574,98,0,2026-03-05T19:37:15.563379
+85,NPC,how long do you roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, preheat your oven to 375°F (190°C). Generally, roast the chicken for about 20 minutes per pound. Check if it's done by ensuring the internal temperature reaches 165°F (75°C) at the thickest part, not touching bone. Let it rest for about 10 minutes before carving.",308,71,379,289,49,0,2026-03-05T19:37:17.688594
+86,NPC,how long do you cook a chicken,gpt-4o,0.0,1.0,"Cooking time for chicken depends on the method and the cut. Here are general guidelines:
+
+### Whole Chicken
+- **Roasting:** At 350°F (177°C), roast for about 20 minutes per pound. A 4-pound chicken would take around 1 hour and 20 minutes.
+- **Grilling/Spit-roasting:** Roughly 18-20 minutes per pound.
+
+### Boneless Chicken Breasts
+- **Baking:** At 375°F (190°C), bake for 25-30 minutes.
+- **Grilling:** About 6-8 minutes per side on medium-high heat.
+
+### Bone-in Chicken Pieces
+- **Baking:** At 375°F (190°C), bake for 45-50 minutes.
+- **Grilling:** Grill for 10-15 minutes per side on medium heat.
+
+### Whole Chicken in a Slow Cooker
+- Cook on low for 4-6 hours or high for 2-4 hours.
+
+### Important Tip
+Always check internal temperature with a meat thermometer; it should reach 165°F (74°C).",308,222,530,795,130,0,2026-03-05T19:37:23.227358
+87,NPC,adequate time and temperature of roasting a chicken,gpt-4o,0.0,1.0,"Roasting a chicken requires a balance of time and temperature to ensure it is cooked thoroughly and remains juicy. Here is a general guideline:
+
+### Temperature:
+- **Preheat oven to 375°F (190°C).**
+
+### Cooking Time:
+- **Whole Chicken:** Roast for about 20 minutes per pound (450 grams).
+- **Juices:** A good indicator of doneness is when the juices run clear when the chicken is pierced with a knife or skewer.
+- **Internal Temperature:** Use a meat thermometer to ensure the thickest part of the chicken (usually the thigh) reaches 165°F (74°C).
+
+### Tips:
+- **Resting:** Let the chicken rest for about 10-15 minutes after removing it from the oven before carving. This allows the juices to redistribute.
+- **Seasoning:** You can season the cavity with salt, pepper, lemon, garlic, or herbs for added flavor.
+
+Adjustments may be needed based on your oven and the size of the chicken, so it's always good to check towards the end of the cooking time.",310,217,527,952,161,0,2026-03-05T19:37:28.759611
+88,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"The general guideline for roasting a whole chicken is to cook it at 350°F (175°C) for about 20 minutes per pound (450 grams). Here's a basic guide:
+
+1. **Preparation**: Preheat your oven to 350°F (175°C). Season the chicken with your choice of herbs, spices, and other flavorings.
+
+2. **Roasting Time**: 
+   - A 3 to 4-pound (1.3 to 1.8 kg) chicken will take approximately 1 hour to 1 hour and 20 minutes.
+   - A 5 to 7-pound (2.3 to 3.2 kg) chicken will take about 1 hour and 40 minutes to 2 hours and 20 minutes.
+
+3. **Checking Doneness**: Use a meat thermometer to ensure the internal temperature of the thickest part of the chicken (usually the thigh) reaches 165°F (74°C).
+
+4. **Resting**: Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the cooking time depending on your specific oven and chicken size.",309,235,544,866,150,0,2026-03-05T19:37:33.243503
+89,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+- **4-pound chicken**: 1 hour 20 minutes
+- **5-pound chicken**: 1 hour 40 minutes
+- **6-pound chicken**: 2 hours
+
+To ensure the chicken is fully cooked, use a meat thermometer. The internal temperature should reach 165°F (74°C) in the thickest part of the meat, usually the thigh.
+
+Let the chicken rest for about 10-15 minutes before carving to keep it juicy.",307,122,429,468,78,0,2026-03-05T19:37:35.264979
+90,NPC,How long should I roast a chicken for?,gpt-4o,0.0,1.0,Roast a whole chicken at 375°F (190°C) for about 20 minutes per pound. Ensure the internal temperature reaches 165°F (74°C) when measured with a meat thermometer in the thickest part of the thigh. Rest the chicken for about 10-15 minutes before carving.,310,63,373,253,42,0,2026-03-05T19:37:37.562164
+91,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"The roasting time for a whole chicken depends on the weight of the bird and the oven temperature. A general guideline is to roast a chicken at 350°F (175°C) for about 20 minutes per pound. Here’s a quick reference:
+
+- A 4-pound chicken: Approximately 1 hour and 20 minutes.
+- A 5-pound chicken: Approximately 1 hour and 40 minutes.
+
+Ensure the internal temperature reaches 165°F (75°C) when measured at the thickest part of the thigh without touching the bone. Let it rest for about 10-15 minutes before carving.",306,123,429,512,88,0,2026-03-05T19:37:39.831837
+92,NPC,How long should you roast a chicken for?,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it at 350°F (175°C) for about 20 minutes per pound. For example, a 4-pound chicken would take approximately 1 hour and 20 minutes. 
+
+Ensure the internal temperature of the chicken reaches 165°F (75°C) in the thickest part of the thigh for safe consumption. Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",310,97,407,406,69,0,2026-03-05T19:37:44.107185
+93,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"The time needed to roast a chicken depends on its weight and the oven temperature. A general guideline is:
+
+- Preheat your oven to 375°F (190°C).
+- Roast the chicken for about 20 minutes per pound (450 grams).
+
+For example, a 4-pound chicken would take approximately 80 minutes. It's important to check that the internal temperature reaches 165°F (75°C) using a meat thermometer to ensure it's fully cooked. Let the chicken rest for about 10-15 minutes before carving.",307,106,413,468,78,0,2026-03-05T19:37:46.622420
+94,NPC,How long should you roast chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically requires 20 minutes per pound at 350°F (175°C). Here’s a general guideline:
+
+1. **Whole Chicken**: 
+   - 3-4 lbs: Roast for about 1 hour to 1 hour and 20 minutes.
+   - 5-7 lbs: Roast for about 1 hour and 30 minutes to 2 hours and 20 minutes.
+
+2. **Checking Doneness**: 
+   - Use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) at the thickest part of the breast and thigh, avoiding the bone.
+
+3. **Resting Time**: 
+   - Let the chicken rest for about 10-15 minutes after roasting to allow the juices to redistribute.
+
+These times can vary based on your oven, so it's always best to use a meat thermometer.",308,178,486,661,115,0,2026-03-05T19:37:49.682076
+95,NPC,chicken roast time,gpt-4o,0.0,1.0,"The roasting time for chicken depends on the weight of the bird and the oven temperature. Here's a general guideline:
+
+### Whole Chicken:
+- **350°F (175°C)**: Roast for about 20 minutes per pound (approximately 45 minutes per kilogram).
+- **375°F (190°C)**: Roast for about 18 minutes per pound.
+
+### Chicken Pieces:
+- **Bone-In, Skin-On**: Roast at 375°F (190°C) for 35-40 minutes.
+- **Boneless, Skinless**: Roast at 375°F (190°C) for 25-30 minutes.
+
+### Tips:
+- Always use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) for safe consumption.
+- Let the chicken rest for about 10-15 minutes after roasting for juicier results.",305,171,476,654,104,0,2026-03-05T19:37:52.788373
+96,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, follow these general guidelines:
+
+1. **Preheat Oven**: Set your oven to 425°F (220°C).
+
+2. **Cooking Time**: Roast for about 20 minutes per pound (450 grams). For example:
+   - A 4-pound (1.8 kg) chicken will take approximately 80 minutes.
+
+3. **Check Temperature**: The internal temperature should reach 165°F (75°C) at the thickest part of the breast and thighs.
+
+4. **Resting**: Let the chicken rest for 10-15 minutes before carving.
+
+Adjust cooking times depending on your specific oven and the size of the chicken. Always verify doneness with a meat thermometer.",308,148,456,593,94,0,2026-03-05T19:37:55.926799
+97,NPC,How to roast a chicken,gpt-4o,0.0,1.0,"Here's a simple recipe to roast a chicken:
+
+### Ingredients:
+- 1 whole chicken (about 4 to 5 pounds)
+- Salt and freshly ground black pepper
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 garlic cloves, smashed
+- Fresh herbs like thyme or rosemary (optional)
+
+### Instructions:
+
+1. **Preheat Oven**: Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken**:
+   - Remove the giblets from the chicken cavity.
+   - Pat the chicken dry with paper towels to ensure the skin gets crispy.
+   - Rub the outside of the chicken with olive oil or melted butter.
+   - Season generously with salt and pepper, including the cavity.
+
+3. **Add Aromatics**:
+   - Squeeze the lemon halves over the chicken, then place them inside the cavity.
+   - Add garlic cloves and herbs to the cavity for extra flavor.
+
+4. **Truss the Chicken** (Optional):
+   - Tie the legs together with kitchen twine for even cooking.
+
+5. **Roasting**:
+   - Place the chicken breast-side up on a rack in a roasting pan.
+   - Roast in the preheated oven for about 1.5 hours or until the internal temperature reaches 165°F (74°C) in the thickest part of the thigh.
+
+6. **Rest**:
+   - Once done, remove the chicken from the oven and let it rest for 10-15 minutes before carving. This allows the juices to redistribute.
+
+7. **Carve and Serve**:
+   - Slice the chicken and serve with your favorite sides.
+
+Enjoy your delicious roasted chicken!",306,347,653,1418,241,0,2026-03-05T19:38:02.028770
+98,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a chicken typically depends on its weight and the oven temperature. A general guideline is to roast at 350°F (175°C) for about 20 minutes per pound (450 grams), plus an additional 20 minutes. 
+
+For example:
+
+- A 4-pound (1.8 kg) chicken would need approximately 1 hour and 40 minutes.
+- Ensure the internal temperature reaches 165°F (74°C) at the thickest part of the thigh, avoiding the bone, to confirm doneness.
+
+Remember to rest the chicken for about 10-15 minutes before carving.",308,123,431,506,85,0,2026-03-05T19:38:05.200833
+99,NPC,How long should you roast a chicken for?,gpt-4o,0.0,1.0,"To roast a chicken, you generally cook it at 375°F (190°C) for about 20 minutes per pound. Here are some key steps:
+
+1. **Preheat Oven**: Set it to 375°F (190°C).
+2. **Prepare Chicken**: Clean and pat the chicken dry. Season with salt, pepper, and any desired herbs.
+3. **Roasting Time**: Cook for approximately 20 minutes per pound. For example, a 4-pound chicken would take around 1 hour and 20 minutes.
+4. **Check Temperature**: Ensure the internal temperature reaches 165°F (74°C) using a meat thermometer.
+
+Let the chicken rest for about 10-15 minutes before carving to allow juices to redistribute.",310,155,465,604,99,0,2026-03-05T19:38:08.298535
+100,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+- 3-4 pound chicken: Roast for 1 to 1.5 hours
+- 4-5 pound chicken: Roast for 1.5 to 2 hours
+- 5-6 pound chicken: Roast for 2 to 2.5 hours
+
+Make sure the internal temperature reaches 165°F (74°C) in the thickest part. Let it rest for about 10-15 minutes before carving.",307,117,424,383,69,0,2026-03-05T19:38:10.792229
+101,NPC,how to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken is a delicious and relatively straightforward process. Here’s a simple guide:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds)
+- Olive oil or melted butter
+- Salt
+- Pepper
+- Optional: garlic, lemon, herbs (such as rosemary, thyme)
+
+### Instructions:
+
+1. **Preheat Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Pat the chicken dry with paper towels to ensure crispy skin.
+   - Rub the chicken with olive oil or melted butter all over. This helps with browning.
+
+3. **Season:**
+   - Generously season the inside and outside with salt and pepper.
+   - Optionally, stuff the cavity with garlic cloves, lemon halves, and fresh herbs for extra flavor.
+
+4. **Truss the Chicken (optional):**
+   - Tie the legs together with kitchen twine to help the chicken cook evenly.
+
+5. **Roast:**
+   - Place the chicken breast-side up in a roasting pan or a large oven-proof skillet.
+   - Roast for about 1 to 1.5 hours, or until the internal temperature reaches 165°F (74°C) in the thickest part of the thigh.
+
+6. **Baste (optional):**
+   - Occasionally baste the chicken with the pan juices for extra moisture and flavor.
+
+7. **Rest:**
+   - Let the chicken rest for about 10-15 minutes before carving. This allows the juices to redistribute.
+
+8. **Carve and Serve:**
+   - Carve the chicken and serve with your favorite sides.
+
+Enjoy your perfectly roasted chicken!",306,344,650,1403,228,0,2026-03-05T19:38:18.877613
+102,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the cooking temperature. A general guideline is:
+
+- **350°F (175°C)**: Roast for about 20 minutes per pound. So, a 4-pound chicken would take approximately 1 hour and 20 minutes.
+
+- **400°F (200°C)**: Roast for about 15 minutes per pound. A 4-pound chicken would take approximately 1 hour.
+
+Always ensure the internal temperature of the chicken reaches 165°F (74°C) in the thickest part to ensure it's fully cooked. This can be checked using a meat thermometer. Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",306,142,448,603,99,0,2026-03-05T19:38:21.589858
+103,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting time for a chicken depends on its weight and the oven temperature. A common method is:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **Roast the chicken** for about 20 minutes per pound (45 minutes per kilogram) plus an additional 20 minutes at the end.
+
+For example, a 4-pound chicken would roast for approximately 1 hour and 40 minutes.
+
+**Tips**:
+- **Internal Temperature**: Ensure the chicken reaches an internal temperature of 165°F (75°C) at the thickest part (usually the breast) for safety.
+- **Resting**: Let the chicken rest for about 10-15 minutes before carving to let the juices settle.",308,152,460,609,100,0,2026-03-05T19:38:27.591645
+104,NPC,How long should a chicken be cooked,gpt-4o,0.0,1.0,"The cooking time for chicken depends on the method and the cut being used. Here are some general guidelines:
+
+1. **Whole Chicken**:
+   - **Roasting**: At 350°F (175°C), roast for about 20 minutes per pound. A 4-pound chicken would take roughly 1 hour and 20 minutes.
+   - **Internal Temperature**: The thickest part of the chicken should reach 165°F (75°C).
+
+2. **Chicken Breasts**:
+   - **Baked**: At 375°F (190°C), bake boneless breasts for 20-30 minutes. Bone-in breasts may require 30-40 minutes.
+   - **Grilled**: About 6-8 minutes per side over medium-high heat.
+   
+3. **Chicken Thighs**:
+   - **Baked**: At 375°F (190°C), bake for 35-45 minutes.
+   - **Grilled**: About 6-8 minutes per side over medium-high heat.
+
+4. **Chicken Wings**:
+   - **Baked**: At 400°F (205°C), bake for 40-50 minutes.
+
+Always ensure that the internal temperature of the chicken reaches 165°F (75°C) for safe consumption. Use a meat thermometer for accuracy.",308,269,577,942,143,0,2026-03-05T19:38:34.701950
+105,NPC,How long should a chicken be roasted?,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and the oven temperature. A common guideline is to roast a whole chicken at 350°F (175°C) for about 20 minutes per pound. Here’s a general breakdown:
+
+- **3 to 4 pounds**: Roast for 1 hour to 1 hour and 20 minutes.
+- **4 to 5 pounds**: Roast for 1 hour and 20 minutes to 1 hour and 40 minutes.
+- **5 to 6 pounds**: Roast for 1 hour and 40 minutes to 2 hours.
+
+Make sure the internal temperature reaches 165°F (74°C) at the thickest part of the chicken for safety. Let it rest for about 10-15 minutes before carving.",309,158,467,569,110,0,2026-03-05T19:38:39.504063
+106,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+1. Preheat your oven to 375°F (190°C).
+2. Calculate the cooking time: Multiply the weight of your chicken by 20 minutes per pound.
+3. Place the chicken in a roasting pan, season as desired, and roast.
+4. It's done when the internal temperature reaches 165°F (74°C), measured at the thickest part of the thigh without touching bone.
+
+Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",307,127,434,538,90,0,2026-03-05T19:38:43.166412
+107,NPC,how long should you roast a chicken for,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the cooking temperature. A general guideline is:
+
+1. **Preheat your oven to 425°F (220°C).**
+2. **Roast for about 20 minutes per pound.**
+
+For example, a 4-pound chicken would take approximately 1 hour and 20 minutes.
+
+Make sure to check for doneness by ensuring the internal temperature reaches 165°F (75°C) in the thickest part of the thigh. Let it rest for about 10 minutes before carving to allow the juices to redistribute.",309,115,424,473,79,0,2026-03-05T19:38:46.209028
+108,NPC,"Cooked Chicken internal temperature, approximate cooking time,",gpt-4o,0.0,1.0,"For cooked chicken, the safe internal temperature is 165°F (75°C). Use a meat thermometer to ensure accuracy. Cooking times can vary based on the method and cut:
+
+1. **Whole Chicken:**
+   - **Roasting at 350°F (175°C):** 20 minutes per pound.
+   
+2. **Boneless Chicken Breasts:**
+   - **Baking at 375°F (190°C):** 20-30 minutes.
+   - **Grilling:** 6-8 minutes per side.
+   
+3. **Bone-in Chicken Thighs:**
+   - **Baking at 375°F (190°C):** 45-50 minutes.
+   - **Grilling:** 10-12 minutes per side.
+
+4. **Chicken Wings:**
+   - **Baking at 400°F (200°C):** 40-45 minutes.
+   - **Grilling:** 8-10 minutes per side.
+
+Always allow the chicken to rest for a few minutes before serving to let the juices redistribute.",311,214,525,709,106,0,2026-03-05T19:38:51.370028
+109,NPC,How long do you have to roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). For an average 4-5 pound chicken, that’s roughly 1.5 to 2 hours. Make sure to check the internal temperature; it should reach 165°F (74°C) in the thickest part of the breast and thigh. Let the chicken rest for about 10-15 minutes before carving.",311,87,398,325,56,0,2026-03-05T19:38:53.517337
+110,NPC,How long does it take to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here's a general guideline:
+
+- **3-pound chicken**: Roast for about 1 hour.
+- **4-pound chicken**: Roast for about 1 hour and 20 minutes.
+- **5-pound chicken**: Roast for about 1 hour and 40 minutes.
+
+Always check that the internal temperature reaches 165°F (75°C) at the thickest part of the breast or thigh. Let it rest for about 10-15 minutes before carving.",310,115,425,441,74,0,2026-03-05T19:38:55.282566
+111,NPC,how long should you roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the temperature you're using. Here's a general guideline:
+
+- **Preheat your oven** to 425°F (220°C).
+- **Roasting time** is typically 20 minutes per pound (450g) plus an additional 15 minutes.
+
+For example, a 4-pound (about 1.8 kg) chicken would roast for about 95 minutes at 425°F.
+
+Make sure the internal temperature reaches 165°F (75°C) at the thickest part of the breast and thigh. Let it rest for at least 10-15 minutes before carving.",307,126,433,485,81,0,2026-03-05T19:38:58.575048
+112,NPC,how to roast a chicken,gpt-4o,0.0,1.0,"Here's a simple guide to roasting a chicken:
+
+### Ingredients:
+
+- 1 whole chicken (about 4-5 pounds)
+- Salt
+- Black pepper
+- Olive oil or melted butter
+- Optional: herbs like rosemary, thyme, or sage
+- Optional: 1 lemon, halved
+- Optional: garlic cloves
+
+### Instructions:
+
+1. **Preheat the Oven**:
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken**:
+   - Remove the giblets from inside the chicken if they are there.
+   - Pat the chicken dry with paper towels to ensure a crispy skin.
+
+3. **Season the Chicken**:
+   - Rub the chicken with olive oil or melted butter.
+   - Season liberally with salt and pepper, both on the outside and inside the cavity.
+   - Add herbs under the skin or inside the cavity for extra flavor.
+   - Optionally, place halved lemon and garlic cloves inside the cavity.
+
+4. **Truss the Chicken** (optional):
+   - Tie the legs together with kitchen twine to ensure even cooking.
+
+5. **Roast the Chicken**:
+   - Place the chicken breast side up in a roasting pan or on a rack in a roasting pan.
+   - Roast in the preheated oven for about 1 hour and 20 minutes (20 minutes per pound), or until a meat thermometer inserted into the thickest part of the thigh reads 165°F (75°C).
+
+6. **Rest the Chicken**:
+   - Remove the chicken from the oven and let it rest for about 10-15 minutes before carving. This helps the juices redistribute.
+
+7. **Carve and Serve**:
+   - Carve the chicken and serve with your favorite sides.
+
+Enjoy your perfectly roasted chicken!",306,368,674,1498,258,0,2026-03-05T19:39:07.334911
+113,NPC,How long do you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+1. **3-4 pounds**: Roast for about 1 hour to 1 hour and 20 minutes.
+2. **4-5 pounds**: Roast for about 1 hour and 20 minutes to 1 hour and 40 minutes.
+3. **5-6 pounds**: Roast for about 1 hour and 40 minutes to 2 hours.
+
+Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the chicken. Let it rest for about 10-15 minutes before carving.",308,137,445,471,85,0,2026-03-05T19:39:11.551606
+114,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 350°F (175°C). Here are some general guidelines:
+
+- **3 to 4 pounds**: Roast for 1 to 1.5 hours.
+- **4 to 5 pounds**: Roast for 1.5 to 2 hours.
+- **5 to 6 pounds**: Roast for 2 to 2.5 hours.
+
+Always ensure the internal temperature reaches 165°F (75°C) in the thickest part of the thigh, not touching the bone, to ensure it's safe to eat. Let the chicken rest for 10-15 minutes before carving to redistribute the juices.",306,140,446,490,90,0,2026-03-05T19:39:14.405188
+115,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it at 375°F (190°C) for about 20 minutes per pound. Here’s a basic timeline:
+
+- **3-pound chicken**: 60 minutes
+- **4-pound chicken**: 80 minutes
+- **5-pound chicken**: 100 minutes
+
+Always use a meat thermometer to ensure the chicken is cooked through; it should read at least 165°F (75°C) at the thickest part of the breast and thigh. Let the chicken rest for about 10-15 minutes before carving.",307,119,426,449,77,0,2026-03-05T19:39:17.177051
+116,NPC,how long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight, but a general guideline is:
+
+- Preheat your oven to 375°F (190°C).
+- Roast the chicken for about 20 minutes per pound (450 grams).
+- For a 4-pound (1.8 kg) chicken, this would be approximately 1 hour and 20 minutes.
+- Always ensure the internal temperature reaches 165°F (75°C) for safe consumption.
+
+Let the chicken rest for at least 10-15 minutes before carving to allow juices to redistribute.",308,110,418,448,76,0,2026-03-05T19:39:19.212992
+117,NPC,How long roast chicken,gpt-4o,0.0,1.0,"The time to roast a chicken depends on its weight and the oven temperature. A general guideline is:
+
+- Roast at 375°F (190°C) for 20 minutes per pound (450 grams), plus an additional 15 minutes.
+
+For example, a 4-pound chicken would take about 1 hour and 35 minutes.
+
+Ensure the internal temperature reaches 165°F (74°C) to ensure it's fully cooked.",305,86,391,349,60,0,2026-03-05T19:39:22.024258
+118,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, the general rule is to cook it at 350°F (175°C) for about 20 minutes per pound. Here’s a basic guideline:
+
+1. **Preparation:**
+   - Preheat your oven to 350°F (175°C).
+   - Season your chicken with salt, pepper, and any herbs or spices you like.
+
+2. **Cooking Time:**
+   - A 4-pound chicken would take approximately 80 minutes.
+   - Always check for doneness by ensuring the internal temperature reaches 165°F (74°C).
+
+3. **Resting:**
+   - Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the cooking time slightly if you prefer a higher temperature for a crispier skin, but always ensure the internal temperature reaches 165°F for safety.",309,174,483,715,116,0,2026-03-05T19:39:27.939694
+119,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here’s a general guideline:
+
+- **Whole Chicken**: 
+  - Small (3-4 lbs): 1 to 1.5 hours
+  - Medium (4-5 lbs): 1.5 to 2 hours
+  - Large (5-7 lbs): 2 to 2.5 hours
+
+Check for doneness by ensuring the internal temperature reaches 165°F (74°C) at the thickest part of the breast or the thigh. Let it rest for about 10-15 minutes before carving to allow juices to redistribute.",309,136,445,450,79,0,2026-03-05T19:39:30.811854
+120,NPC,How long should you roast chicken for?,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and the oven temperature. A general guideline is to roast a whole chicken at 350°F (175°C) for about 20 minutes per pound. Here’s a quick reference:
+
+- **3-4 pound chicken**: Roast for 1 hour to 1 hour and 20 minutes.
+- **5-6 pound chicken**: Roast for 1 hour and 40 minutes to 2 hours.
+
+Always ensure the internal temperature reaches 165°F (75°C) in the thickest part of the chicken (not touching bone). Let it rest for about 10-15 minutes before carving to retain the juices.",309,136,445,528,93,0,2026-03-05T19:39:35.733668
+121,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 350°F (176°C). Here are some general guidelines:
+
+- **3 to 4 pounds:** 1 hour to 1 hour and 20 minutes
+- **4 to 5 pounds:** 1 hour and 20 minutes to 1 hour and 40 minutes
+- **5 to 7 pounds:** 1 hour and 40 minutes to 2 hours
+
+For best results, use a meat thermometer. The internal temperature should reach 165°F (74°C) in the thickest part of the breast and thigh. Let the chicken rest for about 10 minutes before carving to let the juices redistribute.",308,142,450,524,99,0,2026-03-05T19:39:37.910971
+122,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"To roast a chicken, you typically need to cook it at 375°F (190°C) for about 20 minutes per pound (approximately 45 minutes per kilogram). Here's a general guide:
+
+1. **Whole Chicken**: 
+   - 3-4 pounds (1.4-1.8 kg): About 1 hour to 1 hour 20 minutes.
+   - 5-6 pounds (2.3-2.7 kg): About 1 hour 40 minutes to 2 hours.
+
+2. **Check for Doneness**: 
+   - The internal temperature should reach 165°F (74°C) when measured at the thickest part of the thigh.
+
+3. **Resting Time**: 
+   - Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjustments might be needed based on the specifics of your oven and the size of the chicken.",308,192,500,670,115,0,2026-03-05T19:39:42.007425
+123,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is to roast at 350°F (175°C):
+
+- For a chicken weighing 3-4 pounds (1.4-1.8 kg): Roast for about 1.5 to 2 hours.
+- For a chicken weighing 4-5 pounds (1.8-2.3 kg): Roast for about 2 to 2.5 hours.
+- For a chicken weighing 5-6 pounds (2.3-2.7 kg): Roast for about 2.5 to 3 hours.
+
+Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh without touching the bone. Let it rest for 10-15 minutes before carving to allow the juices to redistribute.",306,165,471,545,97,0,2026-03-05T19:39:45.131411
+124,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). For example, a 4-pound chicken would take approximately 1 hour and 20 minutes. 
+
+Here are a few additional tips:
+
+1. **Preheat the Oven:** Always preheat your oven to the desired temperature before placing the chicken in to ensure even cooking.
+
+2. **Check the Temperature:** Use a meat thermometer to check the internal temperature of the chicken. It should reach 165°F (74°C) in the thickest part of the breast or thigh.
+
+3. **Rest Before Carving:** Let the chicken rest for about 10-15 minutes after roasting to allow the juices to redistribute.
+
+4. **Seasoning and Basting:** You can enhance flavor by seasoning the chicken skin with salt, pepper, and herbs. Basting occasionally during roasting can also keep it moist.
+
+Adjust cooking time if your chicken is larger or smaller, and always rely primarily on the internal temperature for doneness.",307,205,512,930,150,0,2026-03-05T19:39:49.704492
+125,NPC,How long should you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). For a standard 4-pound chicken, this would mean roasting for about 1 hour and 20 minutes. 
+
+It's important to check that the internal temperature reaches 165°F (74°C) in the thickest part of the chicken for safe consumption. Let the chicken rest for about 10-15 minutes after roasting to allow the juices to redistribute.",309,93,402,401,66,0,2026-03-05T19:39:51.082180
+126,NPC,How long show I roast chicken?,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and the oven temperature. Here’s a general guideline:
+
+- **Whole Chicken:** Roast at 350°F (175°C) for about 20 minutes per pound (450 grams).
+
+For example:
+- A 4-pound chicken should roast for about 80 minutes.
+  
+Make sure the internal temperature reaches 165°F (75°C) in the thickest part of the thigh. Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,108,416,456,76,0,2026-03-05T19:39:53.334011
+127,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the temperature at which you're cooking. Here's a general guideline:
+
+1. **Whole Chicken**: 
+   - **Temperature**: Preheat your oven to 375°F (190°C).
+   - **Time**: Roast for about 20 minutes per pound (450 grams). A 4-pound (1.8 kg) chicken would take approximately 1 hour and 20 minutes.
+   - **Internal Temperature**: The internal temperature should reach 165°F (75°C) in the thickest part of the breast or thigh.
+
+2. **Boneless Chicken Breasts**:
+   - **Temperature**: Preheat to 375°F (190°C).
+   - **Time**: Roast for 20-30 minutes, depending on the thickness.
+
+3. **Chicken Thighs/Legs**:
+   - **Temperature**: Preheat to 400°F (200°C).
+   - **Time**: Roast for 35-45 minutes.
+
+It's important to use a meat thermometer to ensure the chicken is cooked through. Rest the chicken for about 10-15 minutes after removing it from the oven to let the juices redistribute.",306,243,549,917,139,0,2026-03-05T19:39:57.991263
+128,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves the following steps:
+
+1. **Temperature:** Preheat your oven to 375°F (190°C).
+
+2. **Cooking Time:** Roast the chicken for about 20 minutes per pound. 
+
+3. **Checking Doneness:** Use a meat thermometer to ensure the internal temperature of the thickest part of the thigh reaches 165°F (75°C).
+
+4. **Resting Time:** Let the chicken rest for at least 10–15 minutes before carving to allow the juices to redistribute.
+
+Adjust time based on your oven and the size of the chicken.",308,120,428,512,82,0,2026-03-05T19:40:00.996844
+129,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the cooking temperature. Here's a general guideline:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **As a rule of thumb**: Roast the chicken for about 20 minutes per pound (450 grams), plus an additional 10-20 minutes at the end.
+
+For example:
+- A 4-pound (1.8 kg) chicken will take approximately 1 hour and 30 minutes to 1 hour and 40 minutes.
+  
+3. **Internal Temperature**: Ensure the internal temperature reaches 165°F (75°C) when inserted into the thickest part of the chicken, such as the thigh.
+
+Remember to let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",306,164,470,657,110,0,2026-03-05T19:40:06.911546
+130,NPC,how long should I post chicken,gpt-4o,0.0,1.0,"Could you clarify what you mean by ""post chicken""? Are you referring to cooking techniques for chicken, storing it, or something else? Let me know so I can help you better!",307,39,346,172,31,0,2026-03-05T19:40:08.146879
+131,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound (450 grams) at 425°F (220°C). Here's a general guideline:
+
+- 3-pound chicken: 60 minutes
+- 4-pound chicken: 80 minutes
+- 5-pound chicken: 100 minutes
+
+However, it's crucial to ensure the internal temperature of the chicken reaches 165°F (75°C) for safe consumption. Always use a meat thermometer to check the thickest part of the thigh without touching the bone. Let the chicken rest for about 10-15 minutes before carving to retain the juices.",308,122,430,506,82,0,2026-03-05T19:40:11.091599
+132,NPC,How long do you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically requires about 20 minutes per pound at 350°F (175°C). For example, a 4-pound chicken would take approximately 1 hour and 20 minutes. However, always check the internal temperature to ensure it's cooked thoroughly. The thickest part of the chicken should reach 165°F (75°C). Rest the chicken for about 10-15 minutes before carving to allow the juices to distribute evenly.",309,90,399,400,63,0,2026-03-05T19:40:12.883123
+133,NPC,How long would you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here's a general guideline:
+
+- A 3 to 4-pound chicken: Roast for 1 to 1.5 hours.
+- A 5 to 7-pound chicken: Roast for 1.5 to 2 hours.
+
+Ensure the chicken's internal temperature reaches 165°F (75°C) by checking with a meat thermometer. Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,109,417,401,70,0,2026-03-05T19:40:15.577335
+134,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken generally takes about 20 minutes per pound at 350°F (175°C). Here's a basic guideline:
+
+- 3 to 4 pounds: 1 to 1.5 hours
+- 4 to 5 pounds: 1.5 to 1.75 hours
+- 5 to 6 pounds: 1.75 to 2 hours
+
+Ensure the internal temperature reaches 165°F (74°C) at the thickest part of the breast and thigh. Rest the chicken for about 10-15 minutes before carving to let the juices redistribute.",308,121,429,394,74,0,2026-03-05T19:40:18.762106
+135,NPC,how long do I roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it for about 20 minutes per pound at 375°F (190°C). Here's a basic process:
+
+1. **Preheat Your Oven**: Set it to 375°F (190°C).
+2. **Prepare the Chicken**: Season the chicken with salt, pepper, and any desired herbs or spices. You can also stuff the cavity with garlic, lemon, or herbs for added flavor.
+3. **Calculate the Time**: Roast for about 20 minutes per pound. For example, a 4-pound chicken would take approximately 1 hour and 20 minutes.
+4. **Check the Temperature**: Use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) at the thickest part of the thigh.
+5. **Rest the Chicken**: Allow it to rest for about 10-15 minutes before carving.
+
+Adjustments may be needed based on your specific oven and the size of the chicken, so always verify with a thermometer.",309,209,518,847,145,0,2026-03-05T19:40:22.380610
+136,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 350°F (175°C). However, the most reliable way to ensure it's cooked is to check the internal temperature. It should reach 165°F (74°C) in the thickest part of the thigh.
+
+To summarize:
+
+- **Weight**: 20 minutes per pound
+- **Temperature**: 350°F (175°C)
+- **Internal Temp**: 165°F (74°C)
+
+Always let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,119,427,463,75,0,2026-03-05T19:40:24.693524
+137,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is:
+
+- **Whole chicken**: Roast at 375°F (190°C) for about 20 minutes per pound (45 minutes per kilogram), plus an additional 15 minutes.
+
+To ensure it's done, use a meat thermometer. The internal temperature should reach 165°F (74°C) in the thickest part of the thigh without touching the bone.
+
+Always let it rest for about 10-15 minutes before carving to keep it juicy.",308,105,413,444,74,0,2026-03-05T19:40:27.032395
+138,NPC,How long should I cook a chicken?,gpt-4o,0.0,1.0,"Cooking time for chicken depends on the method and the cut of the chicken. Here are some general guidelines:
+
+### Whole Chicken:
+- **Roasting in the Oven:** 
+  - **Temperature:** 375°F (190°C)
+  - **Time:** 20 minutes per pound (450g), plus an additional 20 minutes.
+
+### Chicken Breasts:
+- **Baking:**
+  - **Temperature:** 375°F (190°C)
+  - **Time:** 20-30 minutes for boneless, skinless breasts.
+
+- **Grilling:**
+  - **Time:** 6-8 minutes per side.
+
+### Chicken Thighs:
+- **Baking:**
+  - **Temperature:** 375°F (190°C)
+  - **Time:** 35-45 minutes for bone-in thighs.
+
+- **Grilling:**
+  - **Time:** 8-10 minutes per side.
+
+### Chicken Wings:
+- **Baking:**
+  - **Temperature:** 400°F (200°C)
+  - **Time:** 40-45 minutes.
+
+### Internal Temperature:
+Regardless of the method, the internal temperature should reach 165°F (74°C) for safe consumption.
+
+Adjust times based on your specific oven or grill, and always use a meat thermometer to ensure doneness.",309,266,575,952,140,0,2026-03-05T19:40:31.377009
+139,NPC,how long should I roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and the cooking temperature. A common guideline is:
+
+- **Preheat your oven to 375°F (190°C).**
+- **Roast for about 20 minutes per pound** (450 grams), plus an additional 10-20 minutes.
+
+For example, a 4-pound (approx. 1.8 kg) chicken will take around 1 hour and 20 minutes to 1 hour and 40 minutes.
+
+Ensure the internal temperature reaches **165°F (74°C)** at the thickest part of the chicken. Let it rest for 10-15 minutes before carving.",308,131,439,493,84,0,2026-03-05T19:40:33.877912
+140,NPC,How long should you roast a chicken?,gpt-4o,0.0,1.0,"The general guideline for roasting a whole chicken is about 20 minutes per pound at 350°F (175°C). Here's a basic method:
+
+1. **Preheat Oven**: Preheat your oven to 350°F (175°C).
+2. **Preparation**: Clean and pat dry the chicken. Season it with salt, pepper, and any herbs or spices you like. You can also add lemon slices and garlic inside the cavity for extra flavor.
+3. **Roasting**: Place the chicken in a roasting pan and roast for approximately 20 minutes per pound.
+4. **Temperature Check**: Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh.
+5. **Resting**: Let the chicken rest for about 10-15 minutes before carving.
+
+Adjustments might be needed based on the size of the chicken and your oven. Always use a meat thermometer for accuracy.",309,190,499,785,131,0,2026-03-05T19:40:37.725584
+141,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the temperature at which you roast it. Here’s a general guideline:
+
+1. **Preheat your oven** to 375°F (190°C).
+
+2. **Cooking Time**: Roast the chicken for about 20 minutes per pound (450 grams). 
+
+3. **Check Internal Temperature**: The internal temperature should reach 165°F (75°C) in the thickest part of the breast and thigh.
+
+4. **Resting Time**: Let it rest for 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the time if your oven runs hot or cool. Always rely on a meat thermometer for the best results.",308,142,450,581,97,0,2026-03-05T19:40:41.806833
+142,NPC,How long does it take to roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken usually takes about 20 minutes per pound at 350°F (175°C). For a 4-pound chicken, that would be around 1 hour and 20 minutes. Always make sure the internal temperature reaches 165°F (74°C) to ensure it's fully cooked. Let it rest for about 10 minutes before carving.",311,72,383,285,49,0,2026-03-05T19:40:45.960304
+143,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, the general guideline is to cook it at 375°F (190°C) for about 20 minutes per pound (450 grams). Here's a more detailed approach:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **Prepare the chicken** by patting it dry and seasoning it as desired.
+3. **Cook for the correct amount of time** using this guide:
+   - A 4-pound (1.8 kg) chicken: about 1 hour 20 minutes
+   - A 5-pound (2.3 kg) chicken: about 1 hour 40 minutes
+
+4. **Check for doneness**: The chicken is done when the internal temperature reaches 165°F (75°C) at the thickest part of the thigh without touching the bone.
+
+5. **Rest the chicken** for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the time based on your specific chicken size and oven characteristics.",308,207,515,788,135,0,2026-03-05T19:40:55.197662
+144,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here are some general guidelines:
+
+- **Whole Chicken:** For a 4-pound chicken, roast for about 1 hour and 20 minutes. For a 5-pound chicken, aim for about 1 hour and 40 minutes.
+- **Check Doneness:** The internal temperature should reach 165°F (75°C) when measured at the thickest part of the thigh without touching the bone.
+- **Resting Time:** Allow the chicken to rest for about 10-15 minutes before carving. This helps the juices redistribute throughout the meat.
+
+Adjust cooking times and temperatures based on your specific recipe, oven, and preferences.",307,148,455,640,103,0,2026-03-05T19:41:01.180581
+145,NPC,how long do roast a chicken for,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and the oven temperature. A general guideline is:
+
+- **Temperature**: Preheat the oven to 350°F (175°C).
+- **Cooking Time**: Roast the chicken for about 20 minutes per pound (about 45 minutes per kilogram), plus an additional 20 minutes for good measure.
+
+For example, a 4-pound chicken would take approximately 1 hour and 40 minutes.
+
+To ensure it's done, use a meat thermometer. The internal temperature should reach 165°F (74°C) in the thickest part of the meat.
+
+Always let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,143,451,621,101,0,2026-03-05T19:41:04.251667
+146,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a general guideline:
+
+- **3 to 4 pounds**: Roast for 1 to 1.5 hours.
+- **4 to 5 pounds**: Roast for 1.5 to 2 hours.
+- **5 to 7 pounds**: Roast for 2 to 2.5 hours.
+
+It's crucial to check the internal temperature with a meat thermometer. The chicken is done when the thermometer reads 165°F (75°C) at the thickest part of the breast and thigh.
+
+Remember to let the chicken rest for about 10-15 minutes before carving.",306,143,449,508,93,0,2026-03-05T19:41:08.074109
+147,NPC,How long a chicken should be roasted,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight. A general guideline is to roast a chicken at 375°F (190°C) for about 20 minutes per pound (450 grams). 
+
+Here's a basic guideline:
+
+- **3-pound chicken**: Roast for about 1 hour.
+- **4-pound chicken**: Roast for about 1 hour and 20 minutes.
+- **5-pound chicken**: Roast for about 1 hour and 40 minutes.
+
+Always check for doneness by ensuring the internal temperature reaches 165°F (74°C) in the thickest part of the chicken, avoiding the bone. Let it rest for at least 10-15 minutes before carving.",308,141,449,553,95,0,2026-03-05T19:41:10.743293
+148,NPC,How long does it take to roast a chicken perfectly?,gpt-4o,0.0,1.0,"Roasting a chicken perfectly generally takes about 20 minutes per pound at 350°F (175°C). Here are a few tips:
+
+1. **Preheat the Oven:** Be sure the oven is fully preheated before putting the chicken in.
+
+2. **Internal Temperature:** Use a meat thermometer to check that the internal temperature has reached 165°F (75°C) in the thickest part of the thigh.
+
+3. **Resting Time:** Let the chicken rest for about 10-15 minutes after roasting to allow the juices to redistribute.
+
+4. **Crispier Skin:** For crispier skin, you can start at a higher temperature (450°F or 230°C) for the first 15-20 minutes, then lower the temperature to 350°F (175°C) for the remaining time.
+
+Adjust the time based on the size of the chicken and your oven's efficiency.",312,182,494,746,124,0,2026-03-05T19:41:15.891745
+149,NPC,how long should you roast a chicken for,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a basic guideline:
+
+- **3 to 4 lbs (1.4 to 1.8 kg):** 1 hour to 1 hour and 20 minutes
+- **5 to 6 lbs (2.3 to 2.7 kg):** 1 hour and 40 minutes to 2 hours
+
+Ensure the internal temperature reaches 165°F (75°C) in the thickest part of the breast and thigh for safety. Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",309,135,444,444,85,0,2026-03-05T19:41:18.268751
+150,NPC,How long should I roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, a general guideline is to cook it at 375°F (190°C) for about 20 minutes per pound. Here's a step-by-step guide:
+
+1. **Preheat the Oven**: Set your oven to 375°F (190°C).
+
+2. **Prepare the Chicken**: Remove any giblets, pat the chicken dry, and season it as desired. You can use a simple mix of salt, pepper, and herbs, or a favorite marinade or rub.
+
+3. **Roasting Time**: 
+   - For a 4-pound chicken, you would roast it for approximately 1 hour and 20 minutes.
+   - For a 5-pound chicken, roast for about 1 hour and 40 minutes.
+
+4. **Check Temperature**: Use a meat thermometer to check the internal temperature at the thickest part of the thigh. It should read 165°F (74°C).
+
+5. **Rest**: Let the chicken rest for 10-15 minutes before carving. This allows the juices to redistribute.
+
+Adjust times if you're using a different temperature or if the chicken is stuffed. Always rely on the internal temperature for the safest results.",309,241,550,953,164,0,2026-03-05T19:41:23.171770
+151,NPC,How long should you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and the oven temperature. Here's a general guideline:
+
+- **Preheat oven**: 375°F (190°C).
+- **Cooking time**: 
+  - For a chicken weighing about 4 to 5 pounds (1.8 to 2.3 kg), roast for approximately 1.5 to 2 hours.
+  - Calculate roughly 20 minutes per pound plus an additional 15 minutes.
+
+Always ensure the internal temperature reaches 165°F (75°C) in the thickest part of the chicken to ensure it's fully cooked. Let it rest for about 10-15 minutes before carving.",309,134,443,517,86,0,2026-03-05T19:41:25.851347
+152,NPC,How long at what temp should I roast chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically involves cooking it at 375°F (190°C) for about 20 minutes per pound. Here's a general guide:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **Prepare the chicken** by patting it dry and seasoning it to your liking.
+3. **Roast the chicken** for 20 minutes per pound. For example, a 4-pound chicken would take about 80 minutes.
+4. **Check for doneness** by inserting a meat thermometer into the thickest part of the thigh. It should read 165°F (74°C).
+
+Remember to let it rest for a few minutes before carving. This helps keep the juices in.",311,147,458,568,98,0,2026-03-05T19:41:30.567442
+153,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. Here's a general guideline:
+
+- **Whole Chicken**: Roast at 350°F (175°C).
+  - **3.5 to 4 pounds (1.6 to 1.8 kg)**: About 60-75 minutes.
+  - **4 to 5 pounds (1.8 to 2.3 kg)**: About 75-90 minutes.
+  - **5 to 6 pounds (2.3 to 2.7 kg)**: About 90-105 minutes.
+
+It's important to ensure the internal temperature reaches 165°F (75°C) to ensure it's fully cooked. Let the chicken rest for about 10-15 minutes before carving.",306,150,456,470,80,0,2026-03-05T19:41:33.152520
+154,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is to roast at 350°F (175°C) for about 20 minutes per pound, plus an additional 15 minutes. Always ensure the internal temperature reaches 165°F (74°C) at the thickest part of the meat. Let it rest before carving. 
+
+For example:
+- A 4-pound chicken: ~1 hour 35 minutes
+- A 5-pound chicken: ~1 hour 55 minutes
+
+Adjust time based on your preference and oven specifics.",308,111,419,438,75,0,2026-03-05T19:41:35.946186
+155,NPC,how long should you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and the oven temperature. Generally, you can follow these guidelines:
+
+1. **At 350°F (175°C):**
+   - Roast for about 20 minutes per pound (450 grams).
+
+2. **At 375°F (190°C):**
+   - Roast for about 18-20 minutes per pound.
+
+3. **At 400°F (205°C):**
+   - Roast for about 15-18 minutes per pound.
+
+It's important to check that the internal temperature reaches at least 165°F (75°C) in the thickest part of the chicken to ensure it's fully cooked. Let it rest for about 10-15 minutes before carving to let the juices redistribute.",309,150,459,578,95,0,2026-03-05T19:41:38.438893
+156,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, follow these general guidelines:
+
+1. **Preheat your oven** to 425°F (220°C).
+2. **Season the chicken** with your preferred herbs and spices.
+3. **Roasting time**: 
+   - For a 3 to 4-pound chicken, roast for about 1 to 1.5 hours.
+   - For a 4 to 5-pound chicken, roast for about 1.5 to 2 hours.
+
+4. **Check for doneness**: The internal temperature should reach 165°F (75°C) in the thickest part of the thigh.
+
+5. **Rest the chicken**: Let it rest for about 10-15 minutes before carving.
+
+Adjust the cooking time based on the size of the chicken and your oven. Always use a meat thermometer for accuracy.",307,174,481,628,109,0,2026-03-05T19:41:42.639195
+157,NPC,Roasting chicken time,gpt-4o,0.0,1.0,"The roasting time for chicken depends on the weight of the bird and whether it's bone-in or boneless. A general guideline is:
+
+- **Whole Chicken:** Roast at 350°F (175°C) for about 20 minutes per pound, plus an additional 15 minutes. Ensure the internal temperature reaches 165°F (74°C).
+
+- **Bone-in Chicken Pieces:** Roast at 375°F (190°C) for 35-45 minutes, or until the internal temperature is 165°F.
+
+- **Boneless Chicken Breasts:** Roast at 400°F (200°C) for 20-25 minutes.
+
+Always use a meat thermometer to check for doneness!",305,137,442,533,85,0,2026-03-05T19:41:46.203051
+158,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves these general guidelines:
+
+1. **Temperature**: Preheat your oven to 375°F (190°C).
+
+2. **Cooking Time**: Roast the chicken for about 20 minutes per pound (45 minutes per kilogram). For example, a 4-pound (1.8 kg) chicken would roast for approximately 1 hour and 20 minutes.
+
+3. **Check Doneness**: Use a meat thermometer to ensure the internal temperature of the thickest part of the chicken (usually the thigh) reaches 165°F (75°C).
+
+4. **Resting**: Allow the chicken to rest for about 10-15 minutes before carving to let the juices redistribute.
+
+These are general guidelines and might vary based on your specific recipe or oven. Adjust as needed!",307,163,470,687,108,0,2026-03-05T19:41:49.466383
+159,NPC,how long can you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is to roast at 350°F (175°C) for about 20 minutes per pound. Here's a basic approach:
+
+- **4-pound chicken**: Roast for about 1 hour and 20 minutes.
+- **5-pound chicken**: Roast for about 1 hour and 40 minutes.
+
+Make sure the internal temperature reaches 165°F (75°C) at the thickest part of the meat for safe consumption. Always let it rest for about 10-15 minutes after roasting to allow the juices to redistribute.",308,120,428,489,83,0,2026-03-05T19:41:53.176230
+160,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting time for a whole chicken generally depends on its weight. A common guideline is to roast at 350°F (175°C) for about 20 minutes per pound. Here's a basic guideline:
+
+- **3-4 lb chicken**: Roast for about 1 to 1.5 hours
+- **4-5 lb chicken**: Roast for about 1.5 to 1.75 hours
+- **5-6 lb chicken**: Roast for about 1.75 to 2 hours
+
+Make sure the internal temperature of the chicken reaches 165°F (74°C) in the thickest part of the thigh, not touching the bone. Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,156,464,554,100,0,2026-03-05T19:41:55.996315
+161,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about:
+
+- **Whole Chicken:** For a 4-5 pound (1.8-2.3 kg) chicken, roast at 375°F (190°C) for 1.5 to 2 hours.
+- **Boneless Chicken Breasts:** Roast at 375°F (190°C) for 20-30 minutes.
+- **Bone-in Chicken Pieces:** Roast at 375°F (190°C) for 35-45 minutes.
+
+Always ensure the internal temperature reaches 165°F (74°C) for food safety.",306,117,423,368,58,0,2026-03-05T19:41:58.832750
+162,NPC,How long should you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). However, it's important to ensure the internal temperature of the chicken reaches 165°F (74°C) for safe consumption. Here are the general steps:
+
+1. Preheat your oven to 350°F (175°C).
+2. Prepare the chicken by seasoning it as desired.
+3. Place the chicken in a roasting pan.
+4. Roast in the oven, basting occasionally, until fully cooked.
+
+For a 4-5 pound chicken, this usually means roasting for about 1.5 to 2 hours. Always check the internal temperature with a meat thermometer in the thickest part of the thigh, avoiding the bone, to ensure it's done. Let the chicken rest for about 15 minutes before carving.",309,165,474,694,117,0,2026-03-05T19:42:02.725505
+163,NPC,how long to roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). For example, a 4-pound chicken would take around 1 hour and 20 minutes. However, always check that the internal temperature of the chicken reaches 165°F (75°C) to ensure it's fully cooked. Let it rest for 10–15 minutes before carving to keep it juicy.",308,82,390,331,56,0,2026-03-05T19:42:04.760912
+164,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"To roast a chicken, preheat your oven to 425°F (220°C) and follow these general guidelines:
+
+1. **Whole Chicken**: Roast for about 20 minutes per pound. For example, a 4-pound chicken would take approximately 1 hour and 20 minutes.
+
+2. **Ensure Doneness**: The internal temperature should reach 165°F (74°C) when measured at the thickest part of the thigh without touching the bone.
+
+3. **Resting Time**: Let the chicken rest for 10-15 minutes after roasting before carving. This allows the juices to redistribute.
+
+These are general guidelines, so it's best to use a meat thermometer for accuracy.",307,141,448,598,95,0,2026-03-05T19:42:08.508650
+165,NPC,Best time to roast a chicken for,gpt-4o,0.0,1.0,"Could you clarify what you mean by ""best time""? Are you looking for the best time of day to cook it, or is there something else you had in mind, such as how long to roast a chicken?",308,45,353,181,38,0,2026-03-05T19:42:09.732700
+166,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it at 350°F (175°C) for about 20 minutes per pound. Here's a basic plan:
+
+1. **Preparation**: Preheat your oven to 350°F (175°C). Season the chicken as you prefer.
+
+2. **Cooking Time**: 
+   - A 3-pound chicken should roast for about 1 hour.
+   - A 4-pound chicken should roast for about 1 hour and 20 minutes.
+   - A 5-pound chicken should roast for about 1 hour and 40 minutes.
+
+3. **Check Doneness**: The internal temperature should reach 165°F (75°C) at the thickest part of the thigh, without touching the bone. 
+
+4. **Resting**: Let the chicken rest for 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the time as needed based on your specific oven and chicken size.",308,196,504,750,128,0,2026-03-05T19:42:14.470723
+167,NPC,how long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. As a general guideline:
+
+- **Whole chicken**: Roast at 350°F (175°C) for about 20 minutes per pound.
+- **For a 3-4 pound chicken**: About 1 hour to 1 hour and 20 minutes.
+- **For a 5-7 pound chicken**: About 1 hour and 40 minutes to 2 hours.
+
+Ensure the internal temperature of the chicken reaches 165°F (74°C) using a meat thermometer. Let it rest for 10-15 minutes before carving.",308,122,430,434,77,0,2026-03-05T19:42:18.804808
+168,NPC,How long should I roast a chicken for,gpt-4o,0.0,1.0,"Roasting time for a chicken depends on its weight. A general guideline is to roast at 375°F (190°C) for about 20 minutes per pound, plus an additional 15 minutes. Here’s a basic breakdown:
+
+- **3-4 pounds**: Roast for 1 hour 15 minutes to 1 hour 30 minutes.
+- **4-5 pounds**: Roast for 1 hour 30 minutes to 1 hour 45 minutes.
+- **5-6 pounds**: Roast for 1 hour 45 minutes to 2 hours.
+
+Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh. Let the chicken rest for about 10-15 minutes before carving to keep it juicy.
+
+",309,156,465,552,101,0,2026-03-05T19:42:23.686994
+169,NPC,How long does it take to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here’s a general guideline:
+
+- A 4-pound (1.8 kg) chicken takes about 1 hour and 20 minutes.
+- A 5-pound (2.3 kg) chicken takes about 1 hour and 40 minutes.
+
+Make sure the internal temperature reaches 165°F (75°C) to ensure it's fully cooked. Let it rest for a few minutes before carving. Adjust times if using a different temperature or if the chicken is stuffed.",310,115,425,444,78,0,2026-03-05T19:42:26.376428
+170,NPC,How long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is to roast at 350°F (175°C) for about 20 minutes per pound, plus an additional 15 minutes. Here's a basic approach:
+
+1. **Preheat the oven**: 350°F (175°C).
+2. **Prepare the chicken**: Season with salt, pepper, and any other desired herbs. Optionally, stuff with lemon, garlic, and herbs.
+3. **Roasting time**:
+   - 3-4 pounds: 1 to 1.5 hours
+   - 4-5 pounds: 1.5 to 2 hours
+   - 5-7 pounds: 2 to 2.5 hours
+4. **Check for doneness**: The internal temperature should reach 165°F (74°C) in the thickest part of the thigh and juices should run clear.
+5. **Rest**: Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust times based on your specific oven and chicken size.",308,224,532,781,132,0,2026-03-05T19:42:31.421323
+171,NPC,How long you should roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight and the cooking temperature. A general guideline is to roast at 375°F (190°C) for about 20 minutes per pound (450 grams) plus an additional 15 minutes. 
+
+Here's a quick guide:
+
+- **3 to 4 pounds (1.4 to 1.8 kg):** About 1 hour 15 minutes to 1 hour 30 minutes.
+- **4 to 5 pounds (1.8 to 2.3 kg):** About 1 hour 30 minutes to 1 hour 45 minutes.
+- **5 to 6 pounds (2.3 to 2.7 kg):** About 1 hour 45 minutes to 2 hours.
+
+Make sure the internal temperature reaches 165°F (75°C) and the juices run clear. It's best to use a meat thermometer for accuracy. Let the chicken rest for 10-15 minutes after removing it from the oven to allow the juices to redistribute.",309,205,514,707,134,0,2026-03-05T19:42:37.031323
+172,NPC,how long should I use to roast a chicken,gpt-4o,0.0,1.0,"The roasting time for a chicken depends on its weight and the oven temperature. A general guideline is to roast a chicken at 350°F (175°C) for about 20 minutes per pound. Here's a rough guide:
+
+- **3-pound chicken**: Approximately 1 hour
+- **4-pound chicken**: Approximately 1 hour and 20 minutes
+- **5-pound chicken**: Approximately 1 hour and 40 minutes
+
+To ensure it's fully cooked, check that the internal temperature reaches 165°F (75°C) in the thickest part of the breast or thigh. Let it rest for about 10-15 minutes before carving. Always adjust cooking time based on your specific oven and chicken size.",310,146,456,612,102,0,2026-03-05T19:42:40.467772
+173,NPC,How long does it take to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). For example, a 4-pound chicken would take approximately 1 hour and 20 minutes. It's important to ensure the internal temperature reaches 165°F (74°C) to ensure it's fully cooked. Always let the chicken rest for about 10-15 minutes before carving to retain its juices.",310,81,391,347,56,0,2026-03-05T19:42:42.751059
+174,NPC,Time roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+- **Whole Chicken (3-4 pounds)**: Roast for about 1 hour to 1 hour and 20 minutes.
+- **Whole Chicken (4-5 pounds)**: Roast for about 1 hour and 20 minutes to 1 hour and 40 minutes.
+
+Make sure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh. Let it rest for about 10-15 minutes before carving to let the juices redistribute.
+
+Ensure to adjust the cooking time based on the size of your chicken and check periodically.",305,140,445,557,97,0,2026-03-05T19:42:45.406226
+175,NPC,How to roast chicken,gpt-4o,0.0,1.0,"Here's a simple guide to roasting a chicken:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds)
+- Olive oil or melted butter
+- Salt
+- Pepper
+- Optional: garlic, lemon, fresh herbs (such as thyme or rosemary)
+
+### Instructions:
+
+1. **Preheat Oven:**
+   Preheat your oven to 425°F (220°C).
+
+2. **Prepare Chicken:**
+   - **Pat Dry:** Use paper towels to pat the chicken dry, inside and out.
+   - **Season:** Rub the chicken with olive oil or melted butter, and season generously with salt and pepper. You can also season inside the cavity.
+   - **Flavor:** Optionally, stuff the cavity with lemon halves, garlic cloves, and fresh herbs for added flavor.
+
+3. **Truss the Chicken:**
+   If you like, tie the legs together with kitchen twine to ensure even cooking.
+
+4. **Roast:**
+   - Place the chicken breast-side up in a roasting pan or oven-safe skillet.
+   - Roast for about 1 to 1.5 hours. The chicken is done when a meat thermometer inserted into the thickest part of the thigh (without touching the bone) registers 165°F (75°C).
+
+5. **Rest:**
+   Allow the chicken to rest for about 10-15 minutes before carving. This helps the juices redistribute and results in a juicier chicken.
+
+6. **Carve and Serve:**
+   Carve the chicken and serve with your favorite sides.
+
+### Tips:
+- Basting the chicken with its juices midway through roasting can add extra flavor.
+- For crispy skin, make sure the chicken is thoroughly dried before seasoning and roasting.
+
+Enjoy your delicious roast chicken!",305,355,660,1485,244,0,2026-03-05T19:42:53.789750
+176,NPC,How long should you bake a chicken,gpt-4o,0.0,1.0,"The baking time for chicken depends on several factors, including the cut of the chicken and the temperature at which you're baking it. Here are some general guidelines:
+
+1. **Whole Chicken**: 
+   - Bake at 350°F (175°C) for 20 minutes per pound. 
+   - Ensure the internal temperature reaches 165°F (75°C).
+
+2. **Chicken Breasts**:
+   - Boneless and skinless: Bake at 375°F (190°C) for 20-30 minutes.
+   - Bone-in: Bake at 375°F (190°C) for 30-40 minutes.
+
+3. **Chicken Thighs**:
+   - Boneless and skinless: Bake at 425°F (220°C) for 20-25 minutes.
+   - Bone-in: Bake at 375°F (190°C) for 35-45 minutes.
+
+4. **Chicken Legs**:
+   - Bake at 400°F (205°C) for 35-45 minutes.
+
+Always use a meat thermometer to check that the internal temperature has reached 165°F (75°C) for safety.",308,229,537,778,123,0,2026-03-05T19:42:57.862014
+177,NPC,how long to cook chicken,gpt-4o,0.0,1.0,"The cooking time for chicken depends on the cut and method of cooking. Here are general guidelines for various methods:
+
+1. **Baking (Oven)**:
+   - **Chicken Breast**: 20–30 minutes at 375°F (190°C).
+   - **Whole Chicken**: 20 minutes per pound at 375°F (190°C).
+
+2. **Grilling**:
+   - **Chicken Breast**: 6–8 minutes per side over medium-high heat.
+   - **Thighs/Legs**: 10–12 minutes per side over medium heat.
+
+3. **Pan-Frying**:
+   - **Chicken Breast**: 6–8 minutes per side over medium-high heat.
+   - **Thighs**: 8–10 minutes per side over medium heat.
+
+4. **Boiling**:
+   - **Chicken Breast**: 15–20 minutes.
+   - **Whole Chicken**: 60–90 minutes.
+
+5. **Slow Cooker**:
+   - **Whole Chicken**: 4–5 hours on high, or 6–8 hours on low.
+
+Always ensure chicken is cooked to an internal temperature of 165°F (74°C) for safety.",306,252,558,827,124,0,2026-03-05T19:43:02.392137
+178,NPC,how long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. Here’s a general guideline:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **Roasting Time**: Roast for about 20 minutes per pound (450 grams) of chicken.
+3. **Check for Doneness**: The internal temperature should reach 165°F (75°C) when measured at the thickest part of the thigh (not touching bone).
+
+Always let it rest for about 15 minutes before carving to allow juices to redistribute.",308,110,418,442,71,0,2026-03-05T19:43:06.031000
+179,NPC,How long to roast a chicken,gpt-4o,0.0,1.0,"Roasting time for a chicken varies based on its weight and the oven temperature. A common method is as follows:
+
+1. **Preheat Oven**: Generally, preheat to 375°F (190°C).
+2. **Calculate Time**: Roast the chicken for about 20 minutes per pound.
+3. **Internal Temperature**: Ensure it's cooked to an internal temperature of 165°F (74°C) at the thickest part (avoiding the bone).
+
+For example, a 4-pound chicken would roast for approximately 80 minutes. Rest the chicken for about 10-15 minutes before carving.",307,125,432,507,80,0,2026-03-05T19:43:11.793143
+180,NPC,When is a chicken fully cooked?,gpt-4o,0.0,1.0,"A chicken is fully cooked when it reaches an internal temperature of 165°F (74°C). Use a meat thermometer to check the temperature at the thickest part of the meat, making sure not to touch any bones. The juices should run clear, not pink. 
+
+Ensure all parts of the chicken are checked, especially larger pieces or whole chickens, to confirm they are safe to eat.",308,80,388,363,64,0,2026-03-05T19:43:14.227743
+181,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about:
+
+- **20 minutes per pound** at 350°F (175°C). 
+- For a 4-pound chicken, this would be roughly 1 hour and 20 minutes.
+
+To ensure safety and doneness, the internal temperature should reach 165°F (75°C) when measured with a meat thermometer in the thickest part of the thigh, avoiding the bone. Let the chicken rest for about 10-15 minutes before carving.",306,99,405,400,67,0,2026-03-05T19:43:18.277550
+182,NPC,time to get a roast chicken,gpt-4o,0.0,1.0,"Planning to make a roast chicken? Here’s a simple process to get you started:
+
+### Ingredients:
+- 1 whole chicken
+- Olive oil or softened butter
+- Salt and pepper
+- Garlic cloves (optional)
+- Lemon (optional)
+- Fresh herbs like rosemary, thyme, or parsley (optional)
+
+### Instructions:
+1. **Preheat the Oven:** Set your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Pat the chicken dry with paper towels.
+   - Season the cavity with salt, pepper, garlic, and a halved lemon if desired.
+   - Truss the chicken by tying the legs together with kitchen twine.
+
+3. **Season the Chicken:**
+   - Rub olive oil or butter all over the skin.
+   - Generously season with salt and pepper.
+   - Add herbs if desired for extra flavor.
+
+4. **Roast:**
+   - Place the chicken breast-side up on a roasting rack set inside a roasting pan.
+   - Roast in the oven for about 1 to 1.5 hours, or until the internal temperature reaches 165°F (74°C).
+
+5. **Rest:**
+   - Let the chicken rest for at least 10–15 minutes before carving.
+
+6. **Carve and Serve:**
+   - Carve the chicken and serve with your favorite sides.
+
+Enjoy your meal! If you’re looking for a store or restaurant nearby that sells roast chicken, let me know your location and I can help find one for you.",307,313,620,1256,218,0,2026-03-05T19:43:24.700541
+183,NPC,How long roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a general guideline:
+
+- **3-4 lbs (1.4-1.8 kg)**: Roast for about 1 to 1.5 hours.
+- **4-5 lbs (1.8-2.3 kg)**: Roast for about 1.5 to 2 hours.
+- **5-7 lbs (2.3-3.2 kg)**: Roast for about 2 to 2.5 hours.
+
+Always ensure the internal temperature reaches 165°F (74°C) in the thickest part of the chicken. Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",305,156,461,474,83,0,2026-03-05T19:43:27.756309
+184,NPC,Best times to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken can be a delicious and rewarding experience. Here are some guidelines on the best times and conditions for roasting:
+
+1. **Time of Day**:
+   - **Afternoon/Evening**: Starting in the late afternoon for an early dinner is ideal. This gives you ample time for preparation and roasting.
+
+2. **Day of the Week**:
+   - **Weekend**: Weekends are great as they give you more time to focus on cooking without rushing.
+   - **Special Occasions**: Roasting a chicken is wonderful for guests or family gatherings.
+
+3. **Cultural/Recreational Considerations**:
+   - **Seasonal**: Fall and winter are popular times for roasting due to the warmth it brings to the home.
+   - **Holiday Meals**: Consider roasting as part of festive meals during holidays.
+
+4. **Timing the Roast**:
+   - **Cooking Time**: Generally, roast at 375°F (190°C) and plan for about 20 minutes per pound, plus an additional 15 minutes. Ensure the internal temperature reaches 165°F (74°C).
+
+5. **Preparation Time**:
+   - **Thawing**: If chicken is frozen, allow it to thaw in the refrigerator, typically 24 hours before cooking.
+   - **Marination/Seasoning**: Preparing the night before or a few hours prior enhances flavor.
+
+By aligning these factors with your schedule and preferences, you'll find the perfect time to roast a chicken!",307,306,613,1313,201,0,2026-03-05T19:43:36.627304
+185,NPC,how long should I roast a chicken for,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the cooking temperature. Here's a general guideline:
+
+1. **Preheat Oven**: 375°F (190°C).
+2. **Roasting Time**: 
+   - For a chicken weighing about 4-5 pounds (1.8-2.3 kg), roast for 20 minutes per pound.
+   - Total time is typically 1.5 to 2 hours.
+
+3. **Check Doneness**: The internal temperature should reach 165°F (74°C) in the thickest part of the thigh.
+
+4. **Resting**: Let the chicken rest for about 10-15 minutes before carving to allow juices to redistribute.
+
+Adjust the time based on the size of your chicken and any stuffing used.",309,159,468,587,96,0,2026-03-05T19:43:41.788068
+186,NPC,how long should a roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken often depends on its weight and the oven temperature. A general guideline is to:
+
+1. Preheat the oven to 375°F (190°C).
+2. Roast the chicken for about 20 minutes per pound (450 grams), plus an additional 15 minutes.
+
+Ensure the internal temperature reaches 165°F (75°C) in the thickest part of the meat for safety. Rest the chicken for 10-15 minutes before carving to allow the juices to redistribute.",308,100,408,420,71,0,2026-03-05T19:43:45.760160
+187,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting times for a chicken depend on its weight and cooking temperature. A general guideline is:
+
+- **350°F (175°C):** Roast for about 20 minutes per pound.
+
+**Steps:**
+
+1. **Preheat oven** to 350°F (175°C).
+2. **Prepare the chicken:** Pat dry, season, and optionally stuff with herbs or lemon.
+3. **Roast:** Place in a roasting pan. Calculate the total cooking time based on weight.
+4. **Check doneness:** Use a meat thermometer. The internal temperature should be 165°F (75°C) at the thickest part of the thigh.
+5. **Rest:** Let it rest for 10-15 minutes before carving.
+
+Adjust based on specific recipes or desired crispiness.",308,159,467,631,101,0,2026-03-05T19:43:49.576597
+188,NPC,time to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). For example, a 4-pound chicken would take roughly 1 hour and 20 minutes. Always ensure the internal temperature reaches 165°F (75°C) in the thickest part of the meat. Let it rest for 10-15 minutes before carving. Enjoy!",306,77,383,299,50,0,2026-03-05T19:43:51.698825
+189,NPC,How to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken is quite simple and makes for a delicious meal. Here's a basic recipe to get you started:
+
+### Ingredients:
+- 1 whole chicken (about 4-5 pounds)
+- Salt
+- Black pepper
+- Olive oil or melted butter
+- Herbs (such as thyme, rosemary, or parsley)
+- 1 lemon, halved
+- 4 cloves garlic, crushed
+- Optional: vegetables like carrots, onions, and potatoes
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   - Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   - Remove the giblets from the chicken cavity if present.
+   - Pat the chicken dry with paper towels.
+
+3. **Season the Chicken:**
+   - Generously season the chicken inside and out with salt and pepper.
+   - Rub olive oil or melted butter all over the chicken to help it brown.
+   - Stuff the cavity with lemon halves, garlic cloves, and some herbs.
+
+4. **Truss the Chicken:**
+   - Tie the legs together with kitchen twine to ensure even cooking.
+
+5. **Optional Vegetables:**
+   - If using vegetables, place them in the bottom of a roasting pan and drizzle with olive oil, salt, and pepper. Place the chicken on top of the vegetables.
+
+6. **Roast the Chicken:**
+   - Roast the chicken in the preheated oven for about 1.5 hours, or until the internal temperature reaches 165°F (75°C) in the thickest part of the thigh.
+
+7. **Rest the Chicken:**
+   - Once cooked, remove it from the oven and let it rest for about 10-15 minutes before carving. This allows the juices to redistribute.
+
+8. **Carve and Serve:**
+   - Carve the chicken and serve with the roasted vegetables, if using.
+
+Enjoy your homemade roasted chicken!",306,394,700,1596,271,0,2026-03-05T19:43:59.143240
+190,NPC,roasting a chicken,gpt-4o,0.0,1.0,"Roasting a chicken is a delicious and straightforward way to prepare a flavorful meal. Here's a simple guide to get you started:
+
+### Ingredients:
+- 1 whole chicken (3-4 pounds)
+- 2 tablespoons olive oil or melted butter
+- Salt and pepper
+- 1 lemon, halved
+- 4-5 garlic cloves, smashed
+- Fresh herbs like rosemary, thyme, or parsley (optional)
+
+### Instructions:
+
+1. **Preheat the Oven:**
+   Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken:**
+   Remove the giblets from the chicken cavity and pat the chicken dry with paper towels. Dry skin will crisp up better.
+
+3. **Seasoning:**
+   Drizzle the olive oil or melted butter all over the chicken. Season the chicken generously with salt and pepper. Don’t forget to season the inside of the cavity.
+
+4. **Add Flavor:**
+   Stuff the cavity with the halved lemon, garlic cloves, and any herbs you’re using.
+
+5. **Truss the Chicken:**
+   Tie the legs together with kitchen twine. This helps the chicken cook evenly.
+
+6. **Roast:**
+   Place the chicken breast-side up on a roasting rack in a roasting pan. Roast in the preheated oven for about 1 to 1 1/2 hours, or until the internal temperature reaches 165°F (74°C) at the thickest part of the thigh.
+
+7. **Rest:**
+   Remove the chicken from the oven and let it rest for 10-15 minutes before carving. This allows the juices to redistribute, keeping the meat moist.
+
+8. **Carve and Serve:**
+   Carve the chicken and serve it with your favorite sides. Enjoy!
+
+### Tips:
+- **Crispier Skin:** Increase the oven temperature to broil for the last couple of minutes if you want the skin extra crispy.
+- **Add Vegetables:** Consider adding carrots, potatoes, or onions around the chicken in the roasting pan for a complete meal.
+
+Happy cooking!",305,425,730,1745,291,0,2026-03-05T19:44:09.050571
+191,NPC,how long does it take to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). For example:
+
+- A 3-pound (1.36 kg) chicken takes about 60 minutes.
+- A 4-pound (1.8 kg) chicken takes about 80 minutes.
+- A 5-pound (2.27 kg) chicken takes about 100 minutes.
+
+Ensure the internal temperature reaches 165°F (75°C) using a meat thermometer for safe consumption. Let it rest for about 10-15 minutes after roasting before carving.",310,114,424,423,70,0,2026-03-05T19:44:12.159594
+192,NPC,how long should you roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). However, it's important to ensure the internal temperature reaches 165°F (75°C) for safe consumption. Here's a general guideline:
+
+- **3-pound chicken**: Approximately 60 minutes
+- **4-pound chicken**: Approximately 80 minutes
+- **5-pound chicken**: Approximately 100 minutes
+
+Always check the internal temperature to ensure doneness.",309,94,403,414,57,0,2026-03-05T19:44:14.383240
+193,NPC,how long to cook a chicken for,gpt-4o,0.0,1.0,"The cooking time for a whole chicken depends on its weight and the cooking method. Here's a general guideline for roasting a whole chicken in the oven:
+
+1. **Preheat your oven** to 375°F (190°C).
+2. **Calculate the cooking time**: 
+   - Roast the chicken for about 20 minutes per pound.
+
+   For example, a 5-pound chicken would take about 100 minutes (1 hour and 40 minutes) to roast.
+
+3. **Check for doneness**: 
+   - The internal temperature should reach 165°F (74°C) in the thickest part of the thigh.
+
+4. **Rest the chicken**: 
+   - Let it rest for 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the temperature and time slightly based on your oven and chicken size. Always use a meat thermometer to ensure safety.",308,181,489,745,125,0,2026-03-05T19:44:18.854021
+194,NPC,What’s the best temperature to roast a chicken?,gpt-4o,0.0,1.0,"The best temperature to roast a chicken is usually around 375°F (190°C). This allows the chicken to cook evenly, resulting in a juicy interior and crispy skin. Roast it until the internal temperature reaches 165°F (75°C) in the thickest part of the meat. Depending on the size of the chicken, this can take about 1 to 1.5 hours. Make sure to let it rest for a few minutes before carving.",311,93,404,387,70,0,2026-03-05T19:44:20.649409
+195,NPC,what is the average amount of time that you should roast a chicken,gpt-4o,0.0,1.0,"The average time to roast a whole chicken is typically about 20 minutes per pound at 375°F (190°C). However, it's essential to ensure that the internal temperature reaches 165°F (74°C) for safety. For example, a 4-pound chicken would take around 1 hour and 20 minutes, but always check with a meat thermometer to be sure.",314,77,391,321,55,0,2026-03-05T19:44:23.050822
+196,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, you generally need about 20 minutes per pound at 350°F (175°C). Here’s a basic guide:
+
+1. **Preheat Oven**: Set your oven to 350°F (175°C).
+2. **Prepare the Chicken**: Season and truss the chicken if desired.
+3. **Cooking Time**: 
+   - For a 3-4 pound chicken, roast for about 1 to 1.5 hours.
+   - For a 5-7 pound chicken, roast for about 1.5 to 2 hours.
+
+**Check for Doneness**: The internal temperature should reach 165°F (75°C) at the thickest part of the thigh. Let it rest for about 10-15 minutes before carving.",307,162,469,543,95,0,2026-03-05T19:44:27.766125
+197,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, follow these general guidelines:
+
+1. **Preheat Oven**: Set your oven to 375°F (190°C).
+   
+2. **Timing**: Roast the chicken for about 20 minutes per pound. 
+
+3. **Internal Temperature**: The chicken is done when the internal temperature in the thickest part of the thigh reaches 165°F (75°C).
+
+4. **Resting**: Let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust times as needed based on your specific oven and the size of the chicken.",308,125,433,513,83,0,2026-03-05T19:44:31.252245
+198,NPC,how long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on the weight of the bird. As a general guideline:
+
+- **Preheat your oven to 425°F (220°C).**
+- Roast the chicken for about **20 minutes per pound** (450 grams).
+- An average 4-5 pound (1.8-2.3 kg) chicken will take approximately **1.5 to 2 hours.**
+
+Ensure the internal temperature reaches **165°F (74°C)** when checked at the thickest part, usually the thigh, without touching the bone. Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,131,439,513,84,0,2026-03-05T19:44:35.240377
+199,NPC,how long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a basic guideline:
+
+- A 4-pound chicken: Approximately 1 hour and 20 minutes
+- A 5-pound chicken: Approximately 1 hour and 40 minutes
+- A 6-pound chicken: Approximately 2 hours
+
+To ensure it's cooked properly, the internal temperature should reach 165°F (75°C) when measured at the thickest part of the breast or thigh. Let the chicken rest for about 10-15 minutes before carving.",308,117,425,467,77,0,2026-03-05T19:44:37.535776
+200,NPC,How long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves the following guidelines:
+
+1. **Temperature**: Preheat your oven to 375°F (190°C).
+
+2. **Time**: Roast the chicken for 20 minutes per pound (approximately 45 minutes per kilogram), plus an additional 10-20 minutes.
+
+3. **Internal Temperature**: Ensure the chicken reaches an internal temperature of 165°F (74°C) at the thickest part (usually the breast or thigh).
+
+4. **Resting**: Let the chicken rest for about 10-15 minutes before carving. This helps the juices redistribute and keeps the meat moist.
+
+Adjust the roasting time as needed based on your chicken's size and your oven's performance.",308,146,454,634,95,0,2026-03-05T19:44:43.028059
+201,NPC,how long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves cooking it in an oven at a consistent temperature. Here are some general guidelines:
+
+1. **Temperature**: Preheat your oven to 375°F (190°C).
+
+2. **Time**: 
+   - Whole chicken: Roast for about 20 minutes per pound (approximately 45 minutes per kilogram).
+   - Internal Temperature: Ensure the internal temperature of the chicken reaches 165°F (75°C) at the thickest part of the breast and thigh.
+
+3. **Preparation Tips**:
+   - Let the chicken come to room temperature before roasting.
+   - Season it with salt, pepper, and any herbs or spices you like.
+   - Optionally, brush with oil or melted butter for a crispy skin.
+
+4. **Resting**: Allow the chicken to rest for about 10-15 minutes before carving to let the juices redistribute.
+
+Adjust your cooking time if your chicken is exceptionally large or small, and always rely on a meat thermometer for safety.",306,203,509,897,143,0,2026-03-05T19:44:47.451658
+202,NPC,Perfect roast time for a chicken,gpt-4o,0.0,1.0,"Roasting a chicken perfectly depends on its weight and the temperature you use. Here’s a general guideline:
+
+### Standard Roasting Method
+- **Temperature**: Preheat your oven to 375°F (190°C).
+- **Cooking Time**: Roast for about 20 minutes per pound (450 grams).
+
+### Quick Method
+- **Temperature**: Preheat your oven to 425°F (220°C).
+- **Cooking Time**: Roast for about 15 minutes per pound (450 grams).
+
+### General Tips
+- **Check for Doneness**: Use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) in the thickest part of the chicken.
+- **Resting**: Let the chicken rest for 10-15 minutes after roasting before carving. This helps retain the juices.
+- **Customization**: You can add seasonings, herbs, and vegetables to enhance the flavor.
+
+Make sure to adjust if you're stuffing the chicken or increasing the oven load.",307,203,510,851,135,0,2026-03-05T19:44:51.178659
+203,NPC,how long should I roast a chicken?,gpt-4o,0.0,1.0,"To roast a chicken, the general guideline is to cook it at 375°F (190°C) for about 20 minutes per pound (450 grams). Here’s a step-by-step guide:
+
+1. **Preheat Oven**: Set your oven to 375°F (190°C).
+
+2. **Prepare Chicken**: Season the chicken with salt, pepper, and any other desired spices or herbs. You can also place aromatics like garlic, lemon, or herbs inside the cavity for extra flavor.
+
+3. **Roasting Time**: Calculate the cooking time based on the weight of your chicken.
+
+   - For example, a 4-pound chicken will need about 1 hour and 20 minutes.
+
+4. **Check Doneness**: Use a meat thermometer to ensure the chicken is cooked. The internal temperature should reach 165°F (75°C) at the thickest part of the thigh.
+
+5. **Rest**: Let the chicken rest for about 10-15 minutes before carving. This allows the juices to redistribute.
+
+Enjoy your roasted chicken!",309,216,525,868,144,0,2026-03-05T19:44:57.063846
+204,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"To roast a whole chicken, follow these general guidelines:
+
+1. **Preheat Oven**: Set your oven to 375°F (190°C).
+
+2. **Cooking Time**: 
+   - Roast for about 20 minutes per pound (450 grams).
+   - For a 4-pound (1.8 kg) chicken, this would be approximately 1 hour and 20 minutes.
+
+3. **Check Doneness**: 
+   - Use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh.
+
+4. **Resting**: 
+   - Allow the chicken to rest for 10-15 minutes before carving to let the juices redistribute.
+
+Make sure to adjust cooking times for larger or smaller birds and any additional stuffing or vegetables you may include.",307,168,475,658,108,0,2026-03-05T19:45:02.002962
+205,NPC,time it takes to cook a chicken,gpt-4o,0.0,1.0,"The time it takes to cook a chicken depends on several factors, including the cooking method and the size of the chicken. Here are some general guidelines:
+
+### Roasting
+- **Whole Chicken:** 
+  - At 350°F (175°C), it typically takes about 20 minutes per pound, plus an additional 15 minutes. 
+  - A 4-pound chicken would take about 1.5 hours.
+- **Breasts:** 
+  - Often roasted for 20-30 minutes at 375°F (190°C).
+
+### Grilling
+- **Whole Chicken:**
+  - Takes about 60-90 minutes, depending on size and grill temperature. Use indirect heat for best results.
+- **Pieces (like breasts or thighs):**
+  - Usually takes 6-8 minutes per side over medium-high heat.
+
+### Baking
+- **Whole Chicken:**
+  - Similar to roasting, about 20 minutes per pound at 375°F (190°C).
+- **Boneless Breasts:**
+  - About 20-30 minutes at 375°F (190°C).
+
+### Boiling
+- **Whole Chicken:**
+  - Takes about 1-1.5 hours.
+- **Pieces:**
+  - Usually 20-30 minutes, depending on size.
+
+### Slow Cooker
+- **Whole Chicken:**
+  - About 4-5 hours on high or 6-8 hours on low.
+
+Always ensure the chicken reaches an internal temperature of 165°F (74°C) for safety.",308,311,619,1122,183,0,2026-03-05T19:45:11.495744
+206,NPC,How long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here are some general guidelines:
+
+- **3 to 4 pounds**: 1 to 1.5 hours
+- **4 to 5 pounds**: 1.5 to 2 hours
+- **5 to 6 pounds**: 2 to 2.5 hours
+
+It's important to check the internal temperature, which should reach 165°F (75°C) in the thickest part of the thigh. Also, let it rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,130,438,434,80,0,2026-03-05T19:45:16.097973
+207,NPC,How long should you roast a chicken,gpt-4o,0.0,1.0,"Roasting time for a chicken depends on its weight. A general guideline is:
+
+- Roast at 350°F (175°C) for about 20 minutes per pound (450 grams), plus an additional 20 minutes.
+
+For example, a 4-pound chicken would take approximately 1 hour and 40 minutes. Make sure the internal temperature reaches 165°F (74°C) for safe consumption, checking with a meat thermometer placed in the thickest part of the thigh without touching bone. Rest the chicken for about 15 minutes before carving to allow the juices to redistribute.",308,117,425,520,86,0,2026-03-05T19:45:19.519612
+208,NPC,how long you should roast a chicken.,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A general guideline is:
+
+- **20 minutes per pound** at **350°F (175°C)**.
+
+Here's a basic guide:
+- A 3 to 4-pound chicken: 1 to 1.5 hours
+- A 4 to 5-pound chicken: 1.5 to 2 hours
+- A 5 to 7-pound chicken: 2 to 2.5 hours
+
+Always ensure the internal temperature reaches at least **165°F (74°C)** using a meat thermometer to confirm it's fully cooked. Let it rest for about 10-15 minutes before carving.",309,133,442,452,82,0,2026-03-05T19:45:22.307673
+209,NPC,How long does it take to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a basic guideline:
+
+- A 3 to 4-pound chicken: 1 to 1.5 hours
+- A 4 to 5-pound chicken: 1.5 to 2 hours
+- A 5 to 7-pound chicken: 2 to 2.5 hours
+
+Always ensure the internal temperature reaches 165°F (75°C) for food safety. Let the chicken rest for about 10 minutes before carving to allow the juices to redistribute.",310,119,429,401,74,0,2026-03-05T19:45:24.516685
+210,NPC,Roast time for chicken,gpt-4o,0.0,1.0,"Roasting times for chicken can vary based on the size and whether it's a whole chicken or parts. Here’s a general guide:
+
+### Whole Chicken
+- **Temperature:** Preheat the oven to 375°F (190°C).
+- **Time:** Roast for 20 minutes per pound (450 grams), plus an additional 15 minutes.
+- **Internal Temperature:** The internal temperature should reach 165°F (74°C) at the thickest part of the breast and thighs.
+
+### Chicken Parts
+- **Breasts:** 30-40 minutes at 375°F (190°C)
+- **Thighs and Drumsticks:** 40-45 minutes at 375°F (190°C)
+- **Wings:** 25-30 minutes at 375°F (190°C)
+
+Always ensure the chicken reaches an internal temperature of 165°F (74°C) for safety. Let the chicken rest for a few minutes before carving to retain its juices.",306,194,500,738,120,0,2026-03-05T21:05:47.041943
+211,NPC,roast a chicken,gpt-4o,0.0,1.0,"Here's a simple guide to roast a delicious chicken:
+
+### Ingredients
+
+- 1 whole chicken (about 4-5 pounds)
+- 2 tablespoons olive oil or melted butter
+- Salt and pepper to taste
+- 1 lemon, halved
+- Fresh herbs (such as rosemary, thyme, or parsley)
+- 4-5 garlic cloves, smashed
+- 1 onion, quartered
+- Optional: Vegetables for roasting (carrots, potatoes, onions)
+
+### Instructions
+
+1. **Preheat the Oven**: Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken**:
+   - Remove any giblets from the cavity.
+   - Pat the chicken dry with paper towels to ensure crispy skin.
+
+3. **Season the Chicken**:
+   - Rub olive oil or melted butter all over the chicken.
+   - Season generously with salt and pepper.
+   - Stuff the cavity with lemon halves, garlic, and fresh herbs.
+   - Optionally, tie the legs together with kitchen twine for even cooking.
+
+4. **Prepare the Roasting Pan**:
+   - Place the chicken on a rack in a roasting pan.
+   - Scatter any vegetables you are using around the chicken.
+
+5. **Roast the Chicken**:
+   - Place the pan in the preheated oven.
+   - Roast for about 1.5 hours, or until the internal temperature reaches 165°F (74°C) and the juices run clear.
+   - Baste occasionally with pan juices for extra crispiness.
+
+6. **Rest and Serve**:
+   - Remove the chicken from the oven and let it rest for 10-15 minutes before carving.
+   - Serve with the roasted vegetables and enjoy!
+
+Roasting a chicken is straightforward and makes for a tasty, comforting meal. Enjoy your dinner!",305,373,678,1501,251,0,2026-03-05T21:05:54.065668
+212,NPC,roast chicken.,gpt-4o,0.0,1.0,"Roast chicken is a classic and delicious dish that's relatively simple to prepare. Here's a basic recipe to get you started.
+
+### Ingredients:
+- 1 whole chicken (about 4–5 lbs)
+- Salt and pepper to taste
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 garlic cloves, smashed
+- Fresh herbs (such as rosemary, thyme, or parsley)
+
+### Instructions:
+
+1. **Preparation**:
+   - Preheat your oven to 425°F (220°C).
+   - Pat the chicken dry with paper towels to ensure crispy skin.
+   - Season the chicken generously with salt and pepper, inside and out.
+
+2. **Stuffing**:
+   - Stuff the cavity of the chicken with lemon halves, garlic cloves, and a few sprigs of fresh herbs.
+
+3. **Tying**:
+   - Tie the legs together with kitchen twine to ensure even cooking.
+
+4. **Seasoning**:
+   - Rub the outside of the chicken with olive oil or melted butter. This helps with browning.
+   - Optionally, sprinkle additional herbs over the top.
+
+5. **Roasting**:
+   - Place the chicken breast-side up in a roasting pan.
+   - Roast in the preheated oven for about 1.5 hours, or until the internal temperature reaches 165°F (75°C) in the thickest part of the thigh.
+
+6. **Resting**:
+   - Remove the chicken from the oven and let it rest for at least 10–15 minutes before carving. This helps the juices redistribute.
+
+7. **Serving**:
+   - Carve the chicken and serve it with your favorite side dishes.
+
+Enjoy your roast chicken!",305,353,658,1422,239,0,2026-03-05T21:06:01.803345
+213,NPC,What is a good time to roast a chicken for?,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the temperature you're using. Here's a general guideline:
+
+- **Whole Chicken at 350°F (175°C):**
+  - 3 to 4 pounds: Roast for about 1 to 1.5 hours.
+  - 4 to 5 pounds: Roast for about 1.5 to 2 hours.
+  - 5 to 6 pounds: Roast for about 2 to 2.5 hours.
+
+Always check the internal temperature to ensure it's safe to eat. The thickest part of the chicken (usually the thigh) should reach at least 165°F (74°C). Also, let the chicken rest for about 10-15 minutes after roasting to keep it juicy.",312,152,464,534,99,0,2026-03-05T21:06:05.620039
+214,NPC,how long to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves these general guidelines:
+
+1. **Preheat Your Oven**: Set it to 375°F (190°C).
+
+2. **Prepare the Chicken**: Clean, pat dry, and season the chicken. You can add herbs, lemon, garlic, or other seasonings to your taste.
+
+3. **Roasting Time**:
+   - For a whole chicken, roast it for about 20 minutes per pound (approximately 45 minutes per kilogram).
+   - Generally, a 4-pound chicken will take about 1.5 to 2 hours.
+
+4. **Internal Temperature**: The chicken is done when the internal temperature reaches 165°F (75°C) in the thickest part of the breast and thigh.
+
+5. **Resting**: Let the roasted chicken rest for about 10 to 15 minutes before carving to allow juices to redistribute.
+
+Adjust cooking times depending on your oven and the size of the chicken.",307,195,502,791,129,0,2026-03-05T21:06:09.106968
+215,NPC,How long to roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). Here's a general guideline:
+
+- **3 to 4 pounds (1.3 to 1.8 kg):** Roast for about 1 hour to 1.5 hours.
+- **5 to 7 pounds (2.3 to 3.2 kg):** Roast for about 1.5 to 2.5 hours.
+
+To ensure the chicken is fully cooked, the internal temperature should reach 165°F (74°C) in the thickest part of the meat without touching the bone. Using a meat thermometer is the best way to check this.",306,137,443,460,86,0,2026-03-05T21:06:12.294470
+216,NPC,how long roast chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically depends on its weight. A common guideline is to roast it at 350°F (175°C) for about 20 minutes per pound. Here’s a general guide:
+
+- **3-4 pounds (1.4-1.8 kg):** Roast for 1 hour to 1 hour and 20 minutes.
+- **4-5 pounds (1.8-2.3 kg):** Roast for 1 hour and 20 minutes to 1 hour and 40 minutes.
+- **5-6 pounds (2.3-2.7 kg):** Roast for 1 hour and 45 minutes to 2 hours.
+
+Ensure the internal temperature reaches 165°F (75°C) and let it rest for about 10-15 minutes before carving.",305,164,469,507,93,0,2026-03-05T21:06:16.889591
+217,NPC,How long do you roast a chicken,gpt-4o,0.0,1.0,"Roasting a whole chicken typically takes about 20 minutes per pound at 350°F (175°C). Here’s a simple guide:
+
+- **4-pound chicken:** Roast for approximately 1 hour and 20 minutes.
+- **5-pound chicken:** Roast for approximately 1 hour and 40 minutes.
+- **6-pound chicken:** Roast for approximately 2 hours.
+
+Make sure the internal temperature of the chicken reaches 165°F (75°C) in the thickest part of the meat. Let it rest for about 10-15 minutes before carving to ensure the juices redistribute.",308,119,427,497,80,0,2026-03-05T21:06:20.119932
+218,NPC,Roasting chicken time,gpt-4o,0.0,1.0,"The roasting time for a whole chicken depends on its weight and the oven temperature. Here's a general guideline:
+
+- **At 350°F (175°C):** 
+  - Roast for about 20 minutes per pound.
+  - Example: A 4-pound chicken would take approximately 1 hour and 20 minutes.
+
+- **At 400°F (204°C):** 
+  - Roast for about 15-18 minutes per pound.
+  - Example: A 4-pound chicken would take approximately 1 hour to 1 hour and 12 minutes.
+
+Always ensure the internal temperature of the chicken reaches 165°F (74°C) near the thigh without touching the bone for safe consumption. Let the chicken rest for about 10-15 minutes before carving to retain its juices.",305,160,465,641,107,0,2026-03-05T21:06:24.129967
+219,NPC,How long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically involves cooking it at 350°F (175°C). Here's a general guideline:
+
+- **Whole Chicken**: Roast for about 20 minutes per pound (450 grams). For example, a 4-pound (1.8 kg) chicken should roast for about 80 minutes.
+- **Ensure Doneness**: Use a meat thermometer to check that the internal temperature has reached 165°F (75°C) at the thickest part of the breast and thigh, avoiding the bone.
+
+Always let the chicken rest for about 10-15 minutes before carving to allow the juices to redistribute.",308,125,433,521,85,0,2026-03-05T21:06:27.611459
+220,NPC,How long should I roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken depends on its weight and the temperature of your oven. As a general guideline:
+
+1. **Preheat your oven** to 425°F (220°C).
+2. **Timing**: Roast the chicken for about 20 minutes per pound (about 45 minutes per kilogram), plus an additional 15 minutes.
+3. **Internal Temperature**: Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the thigh without touching the bone.
+4. **Rest**: Let the chicken rest for about 10-15 minutes before carving.
+
+Adjust the time if your recipe specifies a different temperature.",308,132,440,554,88,0,2026-03-05T21:06:34.802306
+221,NPC,Chicken roast time.,gpt-4o,0.0,1.0,"The roasting time for chicken depends on the size and whether it's whole or in parts. Here's a general guide:
+
+### Whole Chicken
+- **350°F (175°C)**: Approximately 20 minutes per pound (45 minutes per kg) plus an additional 15 minutes.
+  
+### Chicken Parts
+- **Breasts**: 30-40 minutes at 375°F (190°C)
+- **Thighs and Drumsticks**: 35-45 minutes at 375°F (190°C)
+- **Wings**: 20-25 minutes at 400°F (200°C)
+
+Always check that the internal temperature reaches 165°F (74°C) for safe consumption. Adjust times if needed for stuffed chicken.",305,148,453,537,85,0,2026-03-05T21:06:39.652540
+222,NPC,The most suitable time to roast chicken,gpt-4o,0.0,1.0,"The most suitable time to roast chicken depends on a few factors, including the weight of the chicken and the oven temperature. However, a typical guideline is to roast a whole chicken at 375°F (190°C) for about 20 minutes per pound. 
+
+Here are a few additional tips:
+
+- **Preheat the Oven:** Always preheat your oven to ensure even cooking.
+- **Check for Doneness:** Use a meat thermometer to ensure the internal temperature reaches 165°F (74°C) in the thickest part of the chicken.
+- **Rest Time:** Let the chicken rest for about 10-15 minutes after roasting. This helps the juices redistribute, keeping the meat moist.
+
+For an average 3-4 pound chicken, this typically means roasting for about 60-80 minutes.",308,163,471,711,118,0,2026-03-05T21:06:43.583423
+223,NPC,how long should i roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken generally depends on its weight. Here’s a basic guideline:
+
+- **For a whole chicken**: Roast at 425°F (220°C) for about 20 minutes per pound. 
+
+- **Internal temperature**: Ensure the internal temperature reaches 165°F (74°C) in the thickest part of the chicken.
+
+- **Resting time**: Let it rest for about 10-15 minutes before carving to allow the juices to redistribute.
+
+Adjust the roasting time if the chicken is stuffed or if you're using a convection oven.",308,114,422,479,78,0,2026-03-05T21:06:49.633181
+224,NPC,ROAST CHICKEN RECIPE,gpt-4o,0.0,1.0,"Here's a simple and delicious roast chicken recipe:
+
+### Ingredients
+- 1 whole chicken (about 4-5 pounds)
+- Salt and pepper to taste
+- 2 tablespoons olive oil or melted butter
+- 1 lemon, halved
+- 4 garlic cloves, smashed
+- Fresh herbs (such as thyme, rosemary, or parsley)
+- 1 onion, quartered
+- Carrots and potatoes (optional, for roasting alongside)
+
+### Instructions
+1. **Preheat the Oven**: Preheat your oven to 425°F (220°C).
+
+2. **Prepare the Chicken**: Pat the chicken dry with paper towels. This helps the skin get crispy.
+
+3. **Season the Chicken**: Season the inside of the chicken with salt and pepper. Stuff the cavity with the lemon halves, garlic cloves, and herbs.
+
+4. **Truss the Chicken**: Tie the legs together with kitchen twine and tuck the wings under the body.
+
+5. **Season the Skin**: Rub the outside of the chicken with olive oil or melted butter. Season generously with salt and pepper.
+
+6. **Prepare the Vegetables**: If using, place the onion, carrots, and potatoes at the bottom of a roasting pan. Drizzle with a bit of olive oil and season with salt and pepper.
+
+7. **Roast the Chicken**: Place the chicken on top of the vegetables in the roasting pan. Roast in the preheated oven for about 1 to 1½ hours, or until the internal temperature reaches 165°F (75°C) and the juices run clear when you cut between a leg and thigh.
+
+8. **Rest the Chicken**: Remove the chicken from the oven and let it rest for 10-15 minutes before carving. This allows the juices to redistribute.
+
+### Tips
+- **Variations**: Add different herbs or spices like paprika or cayenne for a twist.
+- **Basting**: Occasionally baste the chicken with its juices to enhance flavor and moisture.
+
+Enjoy your perfectly roasted chicken!",308,417,725,1729,295,0,2026-03-05T21:06:56.764365
+225,NPC,How long does it to roast a chicken?,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 375°F (190°C). For example, a 4-pound chicken would take around 1 hour and 20 minutes. Always ensure the internal temperature reaches 165°F (75°C) to ensure it's fully cooked. Using a meat thermometer is a good practice for accuracy.",310,71,381,298,49,0,2026-03-05T21:06:58.488801
+226,NPC,how long do you roast chicken for,gpt-4o,0.0,1.0,"The roasting time for a whole chicken depends on its weight and the oven temperature. A common approach is to roast at 350°F (175°C):
+
+- **4 to 5 pounds**: Roast for about 1.5 to 2 hours.
+- **3 to 4 pounds**: Roast for about 1.25 to 1.5 hours.
+
+It's essential to ensure the internal temperature reaches 165°F (75°C) in the thickest part of the meat. Always let the chicken rest for about 10-15 minutes before carving to allow juices to redistribute.",308,120,428,449,81,0,2026-03-05T21:07:01.957234
+227,NPC,How long does it take to roast a chicken,gpt-4o,0.0,1.0,"Roasting a chicken typically takes about 20 minutes per pound at 350°F (175°C). Here's a general guideline:
+
+- **3-pound chicken**: 60-70 minutes
+- **4-pound chicken**: 80-90 minutes
+- **5-pound chicken**: 100-110 minutes
+
+Always ensure the internal temperature reaches 165°F (75°C) in the thickest part of the breast and the innermost part of the thigh using a meat thermometer for safety.",310,103,413,390,60,0,2026-03-05T21:07:05.128268
